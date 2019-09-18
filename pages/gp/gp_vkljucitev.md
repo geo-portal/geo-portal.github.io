@@ -1,5 +1,6 @@
 ---
 title: Vključitev
+keywords: predstavitev,test,brezplačno 
 sidebar: gp_sidebar
 permalink: gp_vkljucitev.html
 folder: gp
