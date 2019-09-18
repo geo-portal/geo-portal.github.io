@@ -10,7 +10,7 @@ entries:
     folderitems:
 
     - title: Predstavitev
-      url: /
+      url: /.
       output: web
     - title: Novice
       url: /news.html
