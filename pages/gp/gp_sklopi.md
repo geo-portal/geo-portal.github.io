@@ -55,6 +55,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno podatke preko splet
 ## 3. Mobilni vmesnik
 
 Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na terenu.
+{% include note.html content="Mobilni vmesnik se naloži samodejno, ko odpremo GEO-PORTAL preko telefona." %}
 
 ### Glavne značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin

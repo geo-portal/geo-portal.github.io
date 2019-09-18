@@ -20,7 +20,11 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 
 ## Kako deluje?
 
-Opis kako deluje
+1. Za vsakega naročnika se pripravi ločena baza podatkov in eden ali več projektov s programskim paketom QGIS.
+1. Administrator v portalu nastavi parametre projekta in ga naloži na spletni strežnik.
+1. Administrator določi uporabnike in njihove pravice za dostop do projekta (uporabniki so o tem obveščeni).
+1. Uporabniku se po uspešni prijavi in izbiri projekta naloži spletni ali mobilni vmesnik, glede na velikost in tip naprave (monitor, telefon, tablica).
+1. Preko vmesnika uporabnik pridobiva slike in druge podatke s pomočjo spletnega strežnika in QGIS strežnika za kartografske podatke.
 
 ## Koordinatni sistem {#ks}
 
