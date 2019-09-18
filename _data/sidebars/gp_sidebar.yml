@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: GEO-PORTAL
+  product: Predstavitev
   #version: 1.0
   folders:
 
@@ -19,9 +19,9 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Pregled
-    output: web, pdf
-    folderitems:
+  #- title: Pregled
+  #  output: web, pdf
+  #  folderitems:
 
     - title: Uvod
       url: /index.html
