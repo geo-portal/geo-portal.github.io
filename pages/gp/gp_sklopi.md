@@ -16,6 +16,8 @@ Portal je vstopna točka v sistem in uporabnikom glede na dodeljene pravice omog
 - ponastavitev gesla
 - nastavitev jezika uporabniškega vmesnika
 
+{% include image.html file="uporabnik.png" alt="portal-uporabnik" caption="Primer pregleda projektov za uporabnika" %}
+
 ### ADMINISTRATOR
 Uporabnik, ki ima tudi vlogo Administratorja ima še naslednje možnosti:
 - pregled, dodajanje, urejanje in brisanje vseh elementov (stranke, skupine, projekti, dodatni sloji, uporabniki)
@@ -25,6 +27,8 @@ Uporabnik, ki ima tudi vlogo Administratorja ima še naslednje možnosti:
 - download/upload projekta iz lokalnega okolja na strežnik
 
 Obstaja več nivojev administratorjev.
+
+{% include image.html file="administrator.png" alt="portal-administrator" caption="Primer urejanja projekta" %}
 
 ## 2. Spletni vmesnik
 

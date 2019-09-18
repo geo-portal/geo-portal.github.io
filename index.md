@@ -18,7 +18,7 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 - večjezična podpora
 - možnost nadgradnje in prilagajanja specifičnim zahtevam
 
-{% include image.html file="spletni_vmesnik_900.png" alt="spletni vmesnik" caption="Primer spletnega vmesnika" %}
+{% include image.html file="spletni_vmesnik_900.png" alt="spletni vmesnik" caption="Primer spletnega vmesnika z uporabo Google StreetView" %}
 
 ## Kako deluje?
 
