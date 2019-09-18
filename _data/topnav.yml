@@ -3,10 +3,10 @@
 topnav:
 - title: Topnav
   items:
-    - title: GEO-PORTAL Vstop
-      external_url: https://geo-portal.si
     - title: Novice
       url: /news
+    - title: GEO-PORTAL Vstop
+      external_url: https://geo-portal.si
 
 #Topnav dropdowns
 #topnav_dropdowns:
