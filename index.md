@@ -1,6 +1,6 @@
 ---
 title: "Uvod"
-keywords: značilnosti, koordinatni sistem
+keywords: gis, prostorski informacijski sistem, geografski informacijski sistem, značilnosti, koordinatni sistem, postopek
 sidebar: gp_sidebar
 permalink: index.html
 summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetjem, javnim ustanovam in drugim organizacijam, za delo s prostorskimi podatki v pisarni in na terenu.
@@ -22,9 +22,10 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 
 1. Za vsakega naročnika se pripravi ločena baza podatkov in eden ali več projektov s programskim paketom QGIS.
 1. Administrator v portalu nastavi parametre projekta in ga naloži na spletni strežnik.
+1. Administrator pošlje potencialnim uporabnikom el.pošto z navodili za registracijo. Po registraciji so uporabniki povezani s konkretnim naročnikom in vidni administratorju v sistemu. 
 1. Administrator določi uporabnike in njihove pravice za dostop do projekta (uporabniki so o tem obveščeni).
 1. Uporabniku se po uspešni prijavi in izbiri projekta naloži spletni ali mobilni vmesnik, glede na velikost in tip naprave (monitor, telefon, tablica).
-1. Preko vmesnika uporabnik pridobiva slike in druge podatke s pomočjo spletnega strežnika in QGIS strežnika za kartografske podatke.
+1. Preko vmesnika uporabnik izvaja operacije in pridobiva slike in druge podatke s pomočjo spletnega strežnika in QGIS strežnika za kartografske podatke.
 
 ## Koordinatni sistem {#ks}
 
