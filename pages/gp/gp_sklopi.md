@@ -32,13 +32,14 @@ Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja p
 
 ### Glavne značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin
-- prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - poizvedovanja na lokaciji, prikaz trenutne lokacije
+- prikaz opisnih podatkov sloja
 - iskalniki
+- kvalitetni izrisi v PDF formatu (tudi večji načrti: A3,A2,...)
 - orodja (merjenje, tiskanje, pošiljanje trenutne povezave)
 - integracija z Google StreetView
+- prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - prilagodljivost (območje, vsebine, jezik, vmesnik,...);
-- kvalitetni izrisi v PDF formatu (tudi večji načrti: A3,A2,...); Uporabljajo se predloga iz QGIS projekta!
 - dostop glede na dodeljene pravice
 - izvoz podatkov (SHP, DXF, CSV,…)
 
@@ -60,9 +61,9 @@ Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na tere
 ### Glavne značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin
 - možnost sledenja karte trenutnemu položaju uporabnika
-- prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - poizvedovanja na lokaciji, prikaz trenutne lokacije z informacijo o natančnosti, višini,…
 - iskalniki
+- prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - prilagodljivost (območje, vsebine, jezik, vmesnik,...)
 - dostop glede na dodeljene pravice
 
