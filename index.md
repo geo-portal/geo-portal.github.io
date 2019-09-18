@@ -18,6 +18,8 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 - večjezična podpora
 - možnost nadgradnje in prilagajanja specifičnim zahtevam
 
+{% include image.html file="spletni_vmesnik_900.png" alt="spletni vmesnik" caption="Primer spletnega vmesnika" %}
+
 ## Kako deluje?
 
 1. Za vsakega naročnika se pripravi ločena baza podatkov in eden ali več projektov s programskim paketom QGIS.
