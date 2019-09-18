@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Predstavitev
+  product: GEO-PORTAL
   #version: 1.0
   folders:
 
@@ -19,31 +19,31 @@ entries:
       output: pdf
       type: frontmatter
 
-  #- title: Pregled
-  #  output: web, pdf
-  #  folderitems:
-
-  - title: Uvod
-    url: /index.html
+  - title: Predstavitev
     output: web, pdf
-    type: homepage
+    folderitems:
 
-  - title: Sklopi sistema
-    url: /gp_sklopi.html
-    output: web, pdf
+    - title: Uvod
+      url: /index.html
+      output: web, pdf
+      type: homepage
 
-  - title: Podatki
-    url: /gp_podatki.html
-    output: web, pdf
+    - title: Sklopi sistema
+      url: /gp_sklopi.html
+      output: web, pdf
 
-  - title: Področja uporabe
-    url: /gp_uporaba.html
-    output: web, pdf
+    - title: Podatki
+      url: /gp_podatki.html
+      output: web, pdf
 
-  - title: Vključitev
-    url: /gp_vkljucitev.html
-    output: web, pdf
+    - title: Področja uporabe
+      url: /gp_uporaba.html
+      output: web, pdf
 
-  - title: Podpora
-    url: /gp_podpora.html
-    output: web, pdf
+    - title: Vključitev
+      url: /gp_vkljucitev.html
+      output: web, pdf
+
+    - title: Podpora
+      url: /gp_podpora.html
+      output: web, pdf
