@@ -13,9 +13,10 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 - uporabniški vmesnik za teren z uporabo telefona ali tablice **[več...](sklopi.html#3-mobilni-vmesnik)**
 - integracija in posodabljanje glavnih državnih prostorskih evidenc **[več...](podatki.html)**
 - delovanje na novem državnem koordinatnem sistemu D96/TM **[več...](#ks)**
-- dodajanje vsebin drugih ponudnikov preko spletnih kartografskih standardov (WMS,WMTS)
 - večuporabniški sistem z različnimi nivoji uporabnikov in njihovih pravic v sistemu
 - večjezična podpora
+- celoten sistem deluje preko varne internetne povezave (TSL)
+- dodajanje vsebin drugih ponudnikov preko spletnih kartografskih standardov (WMS,WMTS)
 - možnost nadgradnje in prilagajanja specifičnim zahtevam
 
 {% include image.html file="spletni_vmesnik_900.png" alt="spletni vmesnik" caption="Primer spletnega vmesnika z uporabo Google StreetView" %}
