@@ -103,6 +103,7 @@ defaults:
 # these are defaults used for the frontmatter for these file types
 
 sidebars:
+- gp_sidebar
 - home_sidebar
 - mydoc_sidebar
 - product1_sidebar
