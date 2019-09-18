@@ -23,27 +23,27 @@ entries:
   #  output: web, pdf
   #  folderitems:
 
-    - title: Uvod
-      url: /index.html
-      output: web, pdf
-      type: homepage
+  - title: Uvod
+    url: /index.html
+    output: web, pdf
+    type: homepage
 
-    - title: Sklopi sistema
-      url: /gp_sklopi.html
-      output: web, pdf
+  - title: Sklopi sistema
+    url: /gp_sklopi.html
+    output: web, pdf
 
-    - title: Podatki
-      url: /gp_podatki.html
-      output: web, pdf
+  - title: Podatki
+    url: /gp_podatki.html
+    output: web, pdf
 
-    - title: Področja uporabe
-      url: /gp_uporaba.html
-      output: web, pdf
+  - title: Področja uporabe
+    url: /gp_uporaba.html
+    output: web, pdf
 
-    - title: Vključitev
-      url: /gp_vkljucitev.html
-      output: web, pdf
+  - title: Vključitev
+    url: /gp_vkljucitev.html
+    output: web, pdf
 
-    - title: Podpora
-      url: /gp_podpora.html
-      output: web, pdf
+  - title: Podpora
+    url: /gp_podpora.html
+    output: web, pdf
