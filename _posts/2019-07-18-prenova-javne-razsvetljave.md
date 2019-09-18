@@ -1,7 +1,7 @@
 ---
 title:  "Projekt prenove javne razsvetljave"
 permalink: prenova-javne-razsvetljave-2019-07.html
-tags: [novice]
+tags: [news]
 ---
 
 GEO-PORTAL je postavljen in pripravljen za uporabo za prvega naročnika. Gre za projekt prenove Javne razsvetljave več kot
