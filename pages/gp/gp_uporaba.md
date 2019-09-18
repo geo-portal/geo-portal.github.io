@@ -7,7 +7,7 @@ folder: gp
 ---
 
 GEO-PORTAL se vsebinsko in funkcionalno prilagodi željam in potrebam naročnikov. Za manjša podjetja navadno zadošča en projekt,
-za večje naročnike kot so občine in druge organizacije pa se lahko pripravi več tematsko ločenih projektov.
+za večje naročnike, kot so občine in druge organizacije, pa se lahko pripravi več tematsko ločenih projektov.
 
 Prednosti GEO-PORTALA se še posebej izkažejo na področjih, kjer se izvaja tudi delo na terenu, saj lahko operater na 
 terenu vnaša nove elemente, spreminja podatke, dodaja fotografije,.. Vse to je takoj vidno v sistemu ostalim uporabnikom.
