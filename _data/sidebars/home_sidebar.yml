@@ -5,9 +5,13 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Pregled
     output: web
     folderitems:
+
+    - title: Predstavitev
+      url: /
+      output: web
     - title: Novice
       url: /news.html
       output: web
