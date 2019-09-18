@@ -1,0 +1,15 @@
+---
+title: Podpora
+keywords: kontakt
+sidebar: gp_sidebar
+permalink: gp_podpora.html
+folder: gp
+---
+
+GEO-PORTAL razvijamo, vzdržujemo in tržimo v podjetju Level2.
+
+Podpora uporabnikom in izobraževanja so na voljo naročnikom skladno z dogovorom.
+
+Kontakt: 
+
+Uroš Preložnik, 051 444 080, info<code>@</code>level2.si
