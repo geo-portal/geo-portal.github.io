@@ -1,6 +1,6 @@
 ---
 title:  "Projekt prenove javne razsvetljave"
-permalink: prenova-javne-razsvetljave-2019-07.html
+permalink: 2019-07-prenova-javne-razsvetljave.html
 tags: [news]
 ---
 

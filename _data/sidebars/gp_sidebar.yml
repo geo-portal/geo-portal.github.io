@@ -29,21 +29,21 @@ entries:
       type: homepage
 
     - title: Sklopi sistema
-      url: /gp_sklopi.html
+      url: /sklopi.html
       output: web, pdf
 
     - title: Podatki
-      url: /gp_podatki.html
+      url: /podatki.html
       output: web, pdf
 
     - title: Področja uporabe
-      url: /gp_uporaba.html
+      url: /uporaba.html
       output: web, pdf
 
     - title: Vključitev
-      url: /gp_vkljucitev.html
+      url: /vkljucitev.html
       output: web, pdf
 
     - title: Podpora
-      url: /gp_podpora.html
+      url: /podpora.html
       output: web, pdf

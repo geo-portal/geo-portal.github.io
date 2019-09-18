@@ -2,7 +2,7 @@
 title: Sklopi sistema
 keywords: portal, spletni vmesnik, mobilni vmesnik
 sidebar: gp_sidebar
-permalink: gp_sklopi.html
+permalink: sklopi.html
 folder: gp
 ---
 

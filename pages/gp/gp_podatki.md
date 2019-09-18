@@ -2,7 +2,7 @@
 title: Podatki
 keywords: gurs, geodetska uprava, dof, rpe, hišne številke, naslovi, gji, kataster, stavb, infrastruktura, prostorski podatki
 sidebar: gp_sidebar
-permalink: gp_podatki.html
+permalink: podatki.html
 folder: gp
 ---
 

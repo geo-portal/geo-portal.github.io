@@ -9,9 +9,9 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 ## Glavne značilnosti
 
 - prikaz in urejanje prostorskih podatkov v spletnem brskalniku
-- uporabniški vmesnik za pisarno z naprednimi analizami in prostorskimi operacijami ter kvalitetnim tiskanjem v PDF **[več...](gp_sklopi.html#2-spletni-vmesnik)**
-- uporabniški vmesnik za teren z uporabo telefona ali tablice **[več...](gp_sklopi.html#3-mobilni-vmesnik)**
-- integracija in posodabljanje glavnih državnih prostorskih evidenc **[več...](gp_podatki.html)**
+- uporabniški vmesnik za pisarno z naprednimi analizami in prostorskimi operacijami ter kvalitetnim tiskanjem v PDF **[več...](sklopi.html#2-spletni-vmesnik)**
+- uporabniški vmesnik za teren z uporabo telefona ali tablice **[več...](sklopi.html#3-mobilni-vmesnik)**
+- integracija in posodabljanje glavnih državnih prostorskih evidenc **[več...](podatki.html)**
 - delovanje na novem državnem koordinatnem sistemu D96/TM **[več...](#ks)**
 - dodajanje vsebin drugih ponudnikov preko spletnih kartografskih standardov (WMS,WMTS)
 - večuporabniški sistem z različnimi nivoji uporabnikov in njihovih pravic v sistemu

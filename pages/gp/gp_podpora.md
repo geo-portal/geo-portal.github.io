@@ -2,7 +2,7 @@
 title: Podpora
 keywords: kontakt
 sidebar: gp_sidebar
-permalink: gp_podpora.html
+permalink: podpora.html
 folder: gp
 ---
 
