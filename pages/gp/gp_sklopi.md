@@ -24,7 +24,8 @@ Uporabnik, ki ima tudi vlogo Administratorja ima še naslednje možnosti:
 - dodeljevanje pravic uporabnikov za ogled ali urejanje projektov v določeni skupini
 - kreiranje drugih administratorjev
 - urejanje nastavitev za posamezen projekt
-- download/upload projekta iz lokalnega okolja na strežnik
+- prevzem/prenos projekta iz lokalnega okolja na strežnik
+- pošiljanje el.pošte skupini uporabnikom
 
 Obstaja več nivojev administratorjev.
 
@@ -57,6 +58,8 @@ Glede na pravice uporabnika in nastavitve projekta je možno podatke preko splet
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
 - Spremembe so takoj vidne v sistemu
 
+{% include image.html file="spletni_vmesnik2.png" alt="spletni-vmesnik" caption="Spletni vmesnik v celozaslonskem načinu in s pripravo za tisk" %}
+
 ## 3. Mobilni vmesnik
 
 Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na terenu.
@@ -85,3 +88,5 @@ Glede na pravice uporabnika in nastavitve projekta je možno podatke preko mobil
 - Uporaba šifrantov, prilagoditve polj za urejanje
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
 - Spremembe so takoj vidne v sistemu
+
+{% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" caption="Mobilni vmesnik s prikazom lokacije" %}
