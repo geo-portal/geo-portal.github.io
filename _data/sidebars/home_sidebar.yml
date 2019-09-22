@@ -12,14 +12,20 @@ entries:
     - title: Predstavitev
       url: /.
       output: web
+
     - title: Novice
       url: /news.html
       output: web
 
       subfolders:
       - title: Arhiv
-        url: /news_archive.html
         output: web
+        subfolderitems:
+
+        - title: Arhiv novic
+          url: /news_archive.html
+          output: web
+
 #    - title: Theme instructions
 #      url: /mydoc_introduction.html
 #      output: web
