@@ -13,16 +13,16 @@ entries:
       url: /.
       output: web
 
-    - title: Novice
-      url: /news.html
-      output: web
-
       subfolders:
-      - title: Arhiv
+      - title: Novice
         output: web
         subfolderitems:
 
-        - title: Arhiv novic
+        - title: Pregled
+          url: /news.html
+          output: web
+
+        - title: Arhiv
           url: /news_archive.html
           output: web
 
