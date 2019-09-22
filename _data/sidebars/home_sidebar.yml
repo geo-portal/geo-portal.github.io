@@ -15,9 +15,11 @@ entries:
     - title: Novice
       url: /news.html
       output: web
-    - title: Arhiv novic
-      url: /news_archive.html
-      output: web
+
+      subfolders:
+      - title: Arhiv
+        url: /news_archive.html
+        output: web
 #    - title: Theme instructions
 #      url: /mydoc_introduction.html
 #      output: web
