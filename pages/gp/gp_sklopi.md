@@ -63,7 +63,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno podatke preko splet
 ## 3. Mobilni vmesnik
 
 Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na terenu.
-{% include note.html content="Mobilni vmesnik se naloži samodejno, ko odpremo GEO-PORTAL preko telefona." %}
+{% include note.html content="Mobilni vmesnik se naloži samodejno, ko odpremo GEO-PORTAL preko brskalnika na pametnem telefonu ali tablici." %}
 
 ### Glavne značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin
@@ -75,15 +75,16 @@ Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na tere
 - dostop glede na dodeljene pravice
 
 ### Urejevalnik
-Glede na pravice uporabnika in nastavitve projekta je možno podatke preko mobilnega vmesnika tudi urejati:
+Glede na pravice uporabnika in nastavitve projekta je možno podatke na terenu preko mobilnega vmesnika tudi zajemati in urejati.:
 - Kreiranje novih elementov, urejanje atributov, brisanje elementov
 - Dodajanje dokumentov elementu (fotografije ali drugi dokumenti)
-- Napredne možnosti za terenski zajem:
+- Napredne možnosti za terensko delo:
     - Preračun elipsoidne višine na geoid
     - Shranjevanje podatkov o lokaciji za kasnejšo evidenco
-    - Možnost uporabe zunanjega GPS sprejemnika
+    - Možnost uporabe zunanjega GPS sprejemnika za zajem podatkov z visoko natančnostjo
     - Nastavitev višine in podatkov o Anteni
     - Zakoličba točke ali linije (prikaz oddaljenosti od trenutne lokacija do točke oz. najbližje točke linije)
+- Integriran čitalec QR kod za prepoznavo in shranjevanje kode v atributne podatke
 - Zapisovanje podatkov (avtor, datum, zadnja sprememba,…)
 - Uporaba šifrantov, prilagoditve polj za urejanje
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
