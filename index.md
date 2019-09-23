@@ -32,7 +32,7 @@ summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetj
 
 ## Dostop
 
-Vstopna stran GEO-PORTALA se nahaja na naslovu: **https://geo-portal.si**
+Vstopna stran GEO-PORTALA se nahaja na naslovu: **[https://geo-portal.si](https://geo-portal.si)**
 
 ## Koordinatni sistem {#ks}
 
