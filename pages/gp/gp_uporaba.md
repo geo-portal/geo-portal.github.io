@@ -16,6 +16,7 @@ terenu vnaša nove elemente, spreminja podatke, dodaja fotografije,.. Vse to je 
 - Komunalna infrastruktura<br/>
 - Telekomunikacije<br/>
 - Energetika<br/>
+- Javna razsvetljava<br/>
 - Prostorsko načrtovanje<br/>
 - Upravljanje nepremičnin<br/>
 - Transport in logistika<br/>
