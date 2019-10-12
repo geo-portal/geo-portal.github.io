@@ -2,7 +2,7 @@
 title: "Novice"
 tagName: novice
 search: exclude
-permalink: tag_news.html
+permalink: tag_novice.html
 sidebar: home_sidebar
 folder: tags
 ---
