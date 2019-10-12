@@ -1,9 +1,9 @@
 destination: _site/
-url: "http://127.0.0.1:4010"
-baseurl: "/predstavitev-pdf"
-port: 4010
+url: "http://127.0.0.1:4000"
+baseurl: ""
+port: 4000
 output: pdf
-product: test
+product: GEO-PORTAL
 print_title: GEO-PORTAL Predstavitev
 print_subtitle: xxx
 output: pdf
