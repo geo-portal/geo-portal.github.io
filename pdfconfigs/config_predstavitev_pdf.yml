@@ -1,0 +1,20 @@
+destination: _site/
+url: "http://127.0.0.1:4010"
+baseurl: "/predstavitev-pdf"
+port: 4010
+output: pdf
+product: test
+print_title: GEO-PORTAL Predstavitev
+print_subtitle: xxx
+output: pdf
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page_print"
+      comments: true
+      search: true
+
+pdf_sidebar: gp_sidebar

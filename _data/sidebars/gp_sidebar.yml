@@ -42,7 +42,7 @@ entries:
 
     - title: Vključitev
       url: /vkljucitev.html
-      output: web, pdf
+      output: web
 
     - title: Podpora
       url: /podpora.html
