@@ -1,6 +1,6 @@
 ---
 title: "Novice"
-tagName: news
+tagName: novice
 search: exclude
 permalink: tag_news.html
 sidebar: home_sidebar

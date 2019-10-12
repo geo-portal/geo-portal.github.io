@@ -1,6 +1,6 @@
 ---
 title: Področja uporabe
-keywords: občin,komunala,komunalno podjetje,agencija,komunalna,infrastruktura,telekomunikacije,elektro,plin,energetika,prostorsko načrtovanje,okolje,prostor,nepremičnin,ekologija,trgovska mreža,prodaja,marketing
+keywords: občin,komunala,komunalno podjetje,agencija,komunalna,infrastruktura,telekomunikacije,elektro,plin,energetika,javna razsvetljava,prostorsko načrtovanje,okolje,prostor,nepremičnin,ekologija,trgovska mreža,prodaja,marketing
 sidebar: gp_sidebar
 permalink: uporaba.html
 folder: gp
