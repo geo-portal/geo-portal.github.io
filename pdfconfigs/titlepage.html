@@ -4,19 +4,17 @@ search: exclude
 permalink: /titlepage.html/
 ---
 <div class="printTitleArea">
-    <div class="printTitle">{{site.print_title}}</div>
-    <div class="printSubtitle">{{site.print_subtitle}}</div>
-    <div class="lastGeneratedDate">Last generated: {{ site.time | date: '%B %d, %Y' }}</div>
-    <hr />
-
     <div class="printTitleImage">
-        <img src="{{site.url}}/{{site.baseurl}}/images/company_logo_big.png" alt="Company Logo"/>
+        <img src="{{site.url}}/{{site.baseurl}}/images/geo-portal_logo_big.png" alt="GEO-PORTAL Logo"/>
     </div>
-
+    <div class="printSubtitle">{{site.print_subtitle}}</div>
+    <hr />
+    <br>
+    <br>
+    <div class="lastGeneratedDate">datum priprave: {{ site.time | date: '%d.%m.%Y' }}</div>
     <div class="copyrightBoilerplate">
-        <p>&copy; {{ site.time | date: "%Y" }} {{site.company_name}}. This is a boilerplate copyright statement... All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+        <p>&copy; {{ site.time | date: "%Y" }} {{site.company_name}}. Vse pravice pridržane.
         </p>
-
     </div>
 
 </div>

@@ -4,8 +4,8 @@ baseurl: ""
 port: 4000
 output: pdf
 product: GEO-PORTAL
-print_title: GEO-PORTAL Predstavitev
-print_subtitle: xxx
+print_title: GEO-PORTAL
+print_subtitle: Predstavitev
 output: pdf
 defaults:
   -
