@@ -19,7 +19,7 @@ Portal je vstopna točka v sistem in uporabnikom glede na dodeljene pravice omog
 {% include image.html file="uporabnik.png" alt="portal-uporabnik" caption="Primer pregleda projektov za uporabnika" %}
 
 ### ADMINISTRATOR
-Uporabnik, ki ima tudi vlogo Administratorja ima še naslednje možnosti:
+Uporabnik, ki ima tudi vlogo Administratorja lahko ima še naslednje možnosti:
 - pregled, dodajanje, urejanje in brisanje vseh elementov (stranke, skupine, projekti, dodatni sloji, uporabniki)
 - dodeljevanje pravic uporabnikov za ogled ali urejanje projektov v določeni skupini
 - kreiranje drugih administratorjev
@@ -27,7 +27,7 @@ Uporabnik, ki ima tudi vlogo Administratorja ima še naslednje možnosti:
 - prevzem/prenos projekta iz lokalnega okolja na strežnik
 - pošiljanje el.pošte skupini uporabnikom
 
-Obstaja več nivojev administratorjev.
+Možnosti administratorjev se lahko prilagodijo naročnikovim zahtevam.
 
 {% include image.html file="administrator.png" alt="portal-administrator" caption="Primer urejanja projekta" %}
 
@@ -35,7 +35,7 @@ Obstaja več nivojev administratorjev.
 
 Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja posebnih dodatkov.
 
-### Glavne značilnosti
+### Značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin
 - poizvedovanja na lokaciji, prikaz trenutne lokacije
 - prikaz opisnih podatkov sloja
@@ -46,7 +46,7 @@ Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja p
 - prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - prilagodljivost (območje, vsebine, jezik, vmesnik,...);
 - dostop glede na dodeljene pravice
-- izvoz podatkov (SHP, DXF, CSV,…)
+- izvoz podatkov (SHP, DXF, CSV,…) in opcijska transformacija v druge koordinatne sisteme
 
 ### Urejevalnik
 Glede na pravice uporabnika in nastavitve projekta je možno podatke preko spletnega vmesnika tudi urejati:
@@ -65,7 +65,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno podatke preko splet
 Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na terenu.
 {% include note.html content="Mobilni vmesnik se naloži samodejno, ko odpremo GEO-PORTAL preko brskalnika na pametnem telefonu ali tablici." %}
 
-### Glavne značilnosti
+### Značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin
 - možnost sledenja karte trenutnemu položaju uporabnika
 - poizvedovanja na lokaciji, prikaz trenutne lokacije z informacijo o natančnosti, višini,…
@@ -80,10 +80,10 @@ Glede na pravice uporabnika in nastavitve projekta je možno podatke na terenu p
 - Dodajanje dokumentov elementu (fotografije ali drugi dokumenti)
 - Napredne možnosti za terensko delo:
     - Preračun elipsoidne višine na geoid
-    - Shranjevanje podatkov o lokaciji za kasnejšo evidenco
+    - Shranjevanje dodatnih podatkov o lokaciji (natančnost,...)
     - Možnost uporabe zunanjega GPS sprejemnika za zajem podatkov z visoko natančnostjo
     - Nastavitev višine in podatkov o Anteni
-    - Zakoličba točke ali linije (prikaz oddaljenosti od trenutne lokacija do točke oz. najbližje točke linije)
+    - Zakoličba točke ali linije (prikaz oddaljenosti od trenutne lokacija do izbrane točke oz. najbližje točke linije)
 - Integriran čitalec QR kod za prepoznavo in shranjevanje kode v atributne podatke
 - Zapisovanje podatkov (avtor, datum, zadnja sprememba,…)
 - Uporaba šifrantov, prilagoditve polj za urejanje

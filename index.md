@@ -1,38 +1,49 @@
 ---
 title: "Uvod"
-keywords: geoportal, gis, prostorski informacijski sistem, geografski informacijski sistem, značilnosti, koordinatni sistem, postopek, dostop
+keywords: geoportal, gis, qgis, prostorski informacijski sistem, geografski informacijski sistem, značilnosti, koordinatni sistem, postopek, dostop
 sidebar: gp_sidebar
 permalink: index.html
 summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetjem, javnim ustanovam in drugim organizacijam, za delo s prostorskimi podatki v pisarni in na terenu.
 ---
-<a target="_blank" rel="noopener" class="noCrossRef" href="/pdf/predstavitev.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF dokument za tisk</button></a>
-## Glavne značilnosti
+<a target="_blank" rel="noopener" class="noCrossRef" href="/pdf/predstavitev.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF predstavitev za tisk</button></a>
 
-- prikaz in urejanje prostorskih podatkov v spletnem brskalniku
+## Značilnosti
+
+- prikaz in urejanje poljubnih prostorskih podatkov v spletnem brskalniku
 - uporabniški vmesnik za pisarno z naprednimi orodji ter kvalitetnim tiskanjem v PDF **[več...](sklopi.html#2-spletni-vmesnik)**
 - uporabniški vmesnik za teren z uporabo telefona ali tablice **[več...](sklopi.html#3-mobilni-vmesnik)**
 - integracija in posodabljanje glavnih državnih prostorskih evidenc **[več...](podatki.html)**
 - delovanje na novem državnem koordinatnem sistemu D96/TM **[več...](#ks)**
-- večuporabniški sistem z različnimi nivoji uporabnikov in njihovih pravic v sistemu
 - večjezična podpora
-- celoten sistem deluje preko varne internetne povezave (TSL)
+- vsi podatki so na strežniku, spremembe so takoj vidne vsem uporabnikom
 - dodajanje vsebin drugih ponudnikov preko spletnih kartografskih standardov (WMS,WMTS)
-- možnost nadgradnje in prilagajanja specifičnim zahtevam
+- možnost nadgradnje in prilagajanja specifičnim funkcionalnim in vsebinskim zahtevam
 
 {% include image.html file="spletni_vmesnik_900.png" alt="spletni vmesnik" caption="Primer spletnega vmesnika z uporabo Google StreetView" %}
+
+## Varnost
+
+- dostop samo za pooblaščene osebe
+- večuporabniški sistem z različnimi nivoji uporabnikov in njihovih pravic v sistemu
+- beleženje zadnjih dostopov uporabnikov, beleženje kdo in kdaj je izvedel kreiranje oz. zadnjo spremembo na posameznem prostorskem elementu
+- celoten sistem deluje preko varne internetne povezave (<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.tls}}">**TLS**</a>)
+- redne varnostne kopije podatkov
+- spremljanje delovanja ("monitoring")
+
+## Dostop
+
+Vstopna stran GEO-PORTALA se nahaja na naslovu: **[https://geo-portal.si](https://geo-portal.si)**.
+
+Javna registracija uporabnikov trenutno ni na voljo, v primeru da se zanimate za dostop za vašo organizacijo nas **[kontaktirajte](podpora.html)**.
 
 ## Kako deluje?
 
 1. Za vsakega naročnika se pripravi ločena baza podatkov in eden ali več projektov s programskim paketom <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.qgis}}">**QGIS**</a>.
 1. Administrator v portalu nastavi parametre projekta in ga naloži na spletni strežnik.
 1. Administrator pošlje potencialnim uporabnikom el.pošto z navodili za registracijo. Po registraciji so uporabniki povezani s konkretnim naročnikom in vidni administratorju v sistemu. 
-1. Administrator določi uporabnike in njihove pravice za dostop do projekta (uporabniki so o tem obveščeni).
+1. Administrator določi uporabnike in njihove pravice (pregled ali urejanje) za dostop do projekta (uporabniki so o tem obveščeni).
 1. Uporabniku se po uspešni prijavi in izbiri projekta naloži spletni ali mobilni vmesnik, glede na velikost in tip naprave (monitor, telefon, tablica).
 1. Preko vmesnika uporabnik izvaja operacije in pridobiva slike in druge podatke s pomočjo spletnega strežnika in QGIS strežnika za kartografske podatke.
-
-## Dostop
-
-Vstopna stran GEO-PORTALA se nahaja na naslovu: **[https://geo-portal.si](https://geo-portal.si)**
 
 ## Koordinatni sistem {#ks}
 
