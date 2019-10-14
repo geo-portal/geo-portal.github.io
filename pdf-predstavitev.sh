@@ -7,7 +7,8 @@ clear
 #uros: instanca 1 git bash zaženež serve
 
 echo "Building PDF-friendly HTML site for predstavitev ...";
-bundle exec jekyll serve --detach --config _config.yml,pdfconfigs/config_predstavitev_pdf.yml;
+#bundle exec jekyll serve --detach --config _config.yml,pdfconfigs/config_predstavitev_pdf.yml;
+bundle exec jekyll serve --config _config.yml,pdfconfigs/config_predstavitev_pdf.yml;
 echo "done";
 
 #uros: instanca 2 git bash zaženeš prince
