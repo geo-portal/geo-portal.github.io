@@ -12,4 +12,4 @@ Podpora uporabnikom in izobraževanja so na voljo naročnikom skladno z dogovoro
 
 Kontakt: 
 
-Uroš Preložnik, 051 444 080, info<code>@</code>level2.si
+Uroš Preložnik, 051 444 080, {% include inline_image.html file="email.png" alt="email" %}
