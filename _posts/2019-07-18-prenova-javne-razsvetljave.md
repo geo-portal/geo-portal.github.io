@@ -1,7 +1,7 @@
 ---
 title:  "Projekt prenove javne razsvetljave"
 permalink: 2019-07-prenova-javne-razsvetljave.html
-tags: [novice]
+tags: [novice,javna_razsvetljava]
 ---
 
 GEO-PORTAL je izbran za orodje pri projektu prenove Javne razsvetljave več kot 4000 svetil na območju Mestne občine Nova Gorica.
