@@ -4,7 +4,7 @@ permalink: 2019-11-02-novice-mobilni-navigacija.html
 tags: [novice,mobilni_vmesnik]
 ---
 
-V mobilni vmesnik smo dodali gmub, ki za izbrano lokacijo na karti odpre aplikacijo Google Maps v načinu navodil za pot,
+V mobilni vmesnik smo dodali gumb, ki za izbrano lokacijo na karti odpre aplikacijo Google Maps v načinu navodil za pot,
 od naše trenutne lokacije do izbrane lokacije na karti.
 
 Na ta način si z uporabo GEO-PORTAL-a poenostavimo iskanje poti do naslednje lokacije, v primeru da območja ne poznamo.
