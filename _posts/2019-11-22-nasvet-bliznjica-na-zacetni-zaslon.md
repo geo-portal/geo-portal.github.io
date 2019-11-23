@@ -1,5 +1,5 @@
 ---
-title:  "Bližnjica do GEO-PORTAL-a na telefonu"
+title:  "NASVET: Bližnjica do GEO-PORTAL-a na telefonu"
 permalink: 2019-11-22-nasvet-bliznjica-zacetni-zaslon.html
 tags: [nasveti,mobilni_vmesnik]
 ---
