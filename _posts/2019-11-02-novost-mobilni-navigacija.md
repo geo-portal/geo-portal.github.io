@@ -1,6 +1,6 @@
 ---
 title:  "Mobilni vmesnik - povezava z Google Maps navigacijo"
-permalink: 2019-11-02-novice-mobilni-navigacija.html
+permalink: 2019-11-02-novost-mobilni-navigacija.html
 tags: [novice,mobilni_vmesnik]
 ---
 
