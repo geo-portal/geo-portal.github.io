@@ -22,11 +22,22 @@ Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF
 ### Gospodarska javna infrastruktura (GJI)
 {% include stanje.html content="13.02.2020" %}
 
-Glede na potrebe naročnika se pripravijo različni prikazi iz podatkov GJI (npr. filter po matični številki lastnika, različna
-simbologija glede na natančnost vira,...)
+- [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
+- Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
+- Povezava na Poslovni register Slovenije preko polj MAT_ST in MAT_GJS za opisne podatke elementov na lokaciji
+- Integracija v glavni iskalnik (iskanje po GJI ID številki)
+- Priprava prikazov glede na potrebe naročnika (npr. filter po matični številki lastnika, različna
+  simbologija glede na natančnost vira,...)
+
+{% include callout.html content="**Posebnosti za elektronske komunikacije**:<br/>
+- Kompletna podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD preko sistema relacijskih tabel
+- Poseben prikaz trase, kjer potekajo Optični kabli ter trase kjer so v zemlji položene cevi
+" type="primary" %} 
 
 ### Kataster stavb (KS)
 {% include stanje.html content="01.02.2020" %}
+
+- [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
 ## Drugo
 Ostale vsebine Geodetske uprave (parcele,...) in vsebine drugih ponudnikov (Arso,...) se dodajajo glede na posamezne potrebe naročnika.
@@ -36,4 +47,3 @@ Podatki naročnika se pripravijo in integrirajo v sistem glede na želje naročn
 
 ## Posodabljanje
 Podatki se posodabljajo glede na dogovor z naročnikom.
-
