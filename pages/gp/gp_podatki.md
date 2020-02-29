@@ -9,9 +9,8 @@ folder: gp
 ## Geodetska uprava RS
 
 ### Digitalni ortofoto načrti (DOF025)
-{% include stanje.html content="Leto snemanja 2017 - 2019" 
+{% include stanje.html content="Leto snemanja 2017 - 2019" %}
 {% include image.html file="dof_stanje_2019_120dpi.png" alt="stanje-dof" caption="" %}
-%}
 
 Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm).
 
