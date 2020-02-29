@@ -14,6 +14,7 @@ Ostale značilnosti:
 - vnašanje okvirnih situacij operaterjev (skiciranje poteka vodov, opombe glede trase in objektov, priloge,..) za pomoč pri trasiranju in snemanju trase izvajalcev na terenu
 - pregled območij glede na izvajalca
 - pregled in statistika (dolžina, občina, izvajalec) posnete trase izvajalcev
+- pomoč pri pripravi elaborata za vpis sprememb v GJI za izvajalce
 
 {% include image.html file="posts/2019-09-16-01.png" alt="Projekt evidentiranja kabelskega omrezja" caption="Spletni vmesnik za projekt evidentiranja kabelskega omrežja" %}
 
