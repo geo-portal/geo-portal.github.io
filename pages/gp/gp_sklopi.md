@@ -51,10 +51,14 @@ Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja p
 ### Možnosti vektorskih slojev
 - prikaz elementov v prostoru glede na definirane stile
 - podpora več različnih stilov risanja za posamezni sloj
-- opisni podatkov elementov na izbrani lokaciji
+- opisni podatki elementov na izbrani lokaciji z naprednimi možnostmi (prikaz šifrantov, povezava na druge evidence,...)
 - opisni podatki elementov sloja v območju prikaza (tabela)
 - izvoz podatkov (SHP, DXF, CSV,…) in opcijska transformacija v druge koordinatne sisteme
+- opcijska priprava iskalnika elementov sloja
+- opcijska priprava relacij (prikaz elementov iz relacijske tabele)
 - opcijska uporaba urejevalnika
+
+{% include image.html file="lokacijska_poizvedba.png" alt="lokacijska-poizvedba" caption="Opisni podatki na lokaciji (prikaz šifrantov iz GJI, povezava na AJPESOV Poslovni register)" %}
 
 {% include image.html file="moznosti_sloja.png" alt="moznosti-sloja" caption="Možnosti vektorskega sloja in prikaz okna za izvoz podatkov" %}
 
@@ -65,6 +69,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje pre
 - Napredne možnosti (snapping, split line, »orto« način risanja,…)
 - Zapisovanje podatkov (avtor, datum, zadnja sprememba,…)
 - Uporaba šifrantov, prilagoditve polj za urejanje
+- Podpora relacijam (dodajanje elementa v relacijsko tabelo)
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
 - Spremembe so takoj vidne v sistemu
 
@@ -97,6 +102,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 - Integriran čitalec QR kod za prepoznavo in shranjevanje kode v atributne podatke
 - Zapisovanje podatkov (avtor, datum, zadnja sprememba,…)
 - Uporaba šifrantov, prilagoditve polj za urejanje
+- Podpora relacijam (dodajanje elementa v relacijsko tabelo)
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
 - Spremembe so takoj vidne v sistemu
 
