@@ -9,12 +9,12 @@ folder: gp
 ## Geodetska uprava RS
 
 ### Digitalni ortofoto načrti (DOF025)
-##### Leto podatkov v sistemu: <span class="label label-info">2017 - 2019</span>
+{% include stanje.html content="2017 - 2019" %}
 
 Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm).
 
 ### Register prostorskih enot (RPE)
-##### Datum podatkov v sistemu: <span class="label label-info">02.02.2020</span>
+{% include stanje.html content="02.02.2020" %}
 
 Poleg prikaza (hišne številke, ulice, naselja, občine) so podatki RPE integrirani tudi v enoten iskalnik.
 
