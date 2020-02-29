@@ -16,7 +16,8 @@ Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF
 ### Register prostorskih enot (RPE)
 {% include stanje.html content="02.02.2020" %}
 
-Poleg prikaza (hišne številke, ulice, naselja, občine) so podatki RPE integrirani tudi v enoten iskalnik.
+- [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
+- Integracija v glavni iskalnik (iskanje po naslovu, naselju, občini)
 
 ### Gospodarska javna infrastruktura (GJI)
 {% include stanje.html content="13.02.2020" %}
