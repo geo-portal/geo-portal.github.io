@@ -9,7 +9,9 @@ folder: gp
 ## Geodetska uprava RS
 
 ### Digitalni ortofoto načrti (DOF025)
-{% include stanje.html content="Leto snemanja 2017 - 2019" %}
+{% include stanje.html content="Leto snemanja 2017 - 2019" 
+{% include image.html file="dof_stanje_2019_120dpi.png" alt="stanje-dof" caption="" %}
+%}
 
 Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm).
 
@@ -30,7 +32,7 @@ Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF
   simbologija glede na natančnost vira,...)
 
 {% include callout.html content="**Posebnosti za elektronske komunikacije**:<br/>
-- Kompletna podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD preko sistema relacijskih tabel
+- Kompletna podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD preko sistema relacijskih tabel<br/>
 - Poseben prikaz trase, kjer potekajo Optični kabli ter trase kjer so v zemlji položene cevi
 " type="primary" %} 
 
