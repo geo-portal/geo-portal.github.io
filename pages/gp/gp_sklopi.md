@@ -38,18 +38,28 @@ Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja p
 ### Značilnosti
 - splošna navigacija v prostoru in izbira različnih vsebin
 - poizvedovanja na lokaciji, prikaz trenutne lokacije
-- prikaz opisnih podatkov sloja
+- integriran prikaz elementov na karti in tabele opisnih podatkov
 - iskalniki
-- kvalitetni izrisi v PDF formatu (tudi večji načrti: A3,A2,...)
+- kvalitetni izrisi v PDF formatu (tudi večji načrti: A3, A2,...)
 - orodja (merjenje, tiskanje, pošiljanje trenutne povezave)
 - integracija z Google StreetView
 - prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
-- prilagodljivost (območje, vsebine, jezik, vmesnik,...);
+- prilagodljivost (območje, vsebine, jezik, vmesnik,...)
+- prikaz koordinat v izbranem koordinatnem sistemu
 - dostop glede na dodeljene pravice
+
+### Možnosti vektorskih slojev
+- prikaz elementov v prostoru glede na definirane stile
+- podpora več različnih stilov risanja za posamezni sloj
+- opisni podatkov elementov na izbrani lokaciji
+- opisni podatki elementov sloja v območju prikaza (tabela)
 - izvoz podatkov (SHP, DXF, CSV,…) in opcijska transformacija v druge koordinatne sisteme
+- opcijska uporaba urejevalnika
+
+{% include image.html file="moznosti_sloja.png" alt="moznosti-sloja" caption="Možnosti vektorskega sloja in prikaz okna za izvoz podatkov" %}
 
 ### Urejevalnik
-Glede na pravice uporabnika in nastavitve projekta je možno podatke preko spletnega vmesnika tudi urejati:
+Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje preko spletnega vmesnika tudi urejati:
 - Kreiranje novih elementov (risanje), urejanje geometrije  in atributov, brisanje elementov
 - Dodajanje dokumentov elementu (fotografije ali drugi dokumenti)
 - Napredne možnosti (snapping, split line, »orto« način risanja,…)
@@ -75,7 +85,7 @@ Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na tere
 - dostop glede na dodeljene pravice
 
 ### Urejevalnik
-Glede na pravice uporabnika in nastavitve projekta je možno podatke na terenu preko mobilnega vmesnika tudi zajemati in urejati.:
+Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na terenu preko mobilnega vmesnika tudi zajemati in urejati.:
 - Kreiranje novih elementov, urejanje atributov, brisanje elementov
 - Dodajanje dokumentov elementu (fotografije ali drugi dokumenti)
 - Napredne možnosti za terensko delo:
