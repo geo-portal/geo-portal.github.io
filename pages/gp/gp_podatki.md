@@ -27,7 +27,8 @@ folder: gp
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
 - Povezava na Poslovni register Slovenije preko polj MAT_ST in MAT_GJS za opisne podatke elementov na lokaciji
-- Integracija v glavni iskalnik (iskanje po GJI ID številki)
+- Originalna struktura formata GJI za namene obdelave z drugimi programi (namesto pridobivanja podatkov na Gurs-u, 
+  se lahko uporabi izvoz iz Spletnega vmesnika GEO-PORTAL-a)
 - Priprava prikazov glede na potrebe naročnika (npr. filter po matični številki lastnika, različna
   simbologija glede na natančnost vira,...)
 
