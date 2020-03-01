@@ -15,5 +15,5 @@ Posebej smo obravnavali še specifiko Elektronskih komunikacij in pripravili:
 - Podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD
 - Sloj _GJI Cevi_, ki prikazuje traso, kjer so v zemlji položene cevi
 - Sloj _GJI Optika_, ki prikazuje traso, kjer potekajo Optični kabli
-  {% include image.html file="posts/2020-02-24-01.png" url="posts/2020-02-24-01.png" alt="el-kom" caption="Prikaz povezave med izbranim elementom trase in pripadajočimi elementi cevi, kablov ter vodov" %}
+  {% include image.html file="posts/2020-02-24-01.png" url="images/posts/2020-02-24-01.png" alt="el-kom" caption="Prikaz povezave med izbranim elementom trase in pripadajočimi elementi cevi, kablov ter vodov" %}
 
