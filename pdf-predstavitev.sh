@@ -18,4 +18,5 @@ prince --javascript --input-list=_site/pdfconfigs/prince-list.txt -o pdf/predsta
 
 echo "Done. Look in the pdf directory to see if it printed successfully."
 
-#uros: urediš pdf po potrebi https://www.pdfescape.com
+#uros: urediš pdf po potrebi https://www.pdfescape.com (samo link na prvi strani ven, več ne moreš)
+#opcija 2: https://smallpdf.com/ in convert to word in porihtaš
