@@ -4,8 +4,7 @@ permalink: 2020-02-27-nasvet-datum-snemanja-dof.html
 tags: [nasveti]
 ---
 
-Pregleden prikaz aero snemanj ortofoto načrtov vključenih v GEO-PORTAL je na sliki:
-{% include image.html file="dof_stanje_2019_120dpi.png" alt="" caption="" %}
+Pregleden prikaz letnic aero snemanj ortofoto načrtov vključenih v GEO-PORTAL je na [sliki](images/dof_stanje_2019_120dpi.png):
 
 Poiščemo pa lahko tudi dejanski datum aero snemanja za posamezni list ortofoto načrta.
 
