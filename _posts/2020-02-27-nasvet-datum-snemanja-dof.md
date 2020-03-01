@@ -6,7 +6,7 @@ tags: [nasveti]
 
 Pregleden prikaz letnic aero snemanj ortofoto načrtov vključenih v GEO-PORTAL je na [sliki](images/dof_stanje_2019_120dpi.png).
 
-Poiščemo pa lahko tudi dejanski datum aero snemanja za posamezni list ortofoto načrta:
+Poiščemo pa lahko tudi dejanski datum aerosnemanja za posamezni list ortofoto načrta:
 ### 1. Vstopimo v [GEO-PORTAL](https://geo-portal.si) in po prijavi izberemo željeni projekt
 ### 2. Prikažemo območje, kjer nas zanima datum snemanja
 ### 3. V legendi odpremo skupino **SPLOŠNI SLOJI** in vklopimo sloj _Datumi snemanj DOF025_
