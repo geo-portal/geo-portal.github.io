@@ -112,6 +112,6 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 
 Za napredne uporabnike in po dogovoru z naročnikom so na voljo različni spletni servisi skladni s specifikacijami <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.ogc}}">**OGC**</a>.
 
-1. WMS/WMTS servis za prikaz Digitalnih ortofoto načrtov DOF025 za celotno Slovenijo (opomba: Geodetska uprava zagotavlja servise za manj kvalitetne posnetke DOF050).
+1. WMS/WMTS servis za prikaz Digitalnih ortofoto načrtov DOF025 za celotno Slovenijo.
 2. WMS/WMTS servis za rastrski prikaz vsebin, ki se nahajajo v GEO-PORTAL-u.
 3. WFS servis za dostop do vsebin GEO-PORTAL-a v vektorski obliki.
