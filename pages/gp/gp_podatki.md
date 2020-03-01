@@ -13,7 +13,7 @@ folder: gp
 {% include image.html file="dof_stanje_2019_120dpi.png" alt="stanje-dof" caption="" %}
 
 - Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm)
-- Možnost prikaza točnega datuma snemanja posameznega lista
+- Možnost [prikaza točnega datuma snemanja posameznega lista](2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Register prostorskih enot (RPE)
 {% include stanje.html content="02.02.2020" %}
