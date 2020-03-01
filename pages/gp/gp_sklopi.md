@@ -1,6 +1,6 @@
 ---
 title: Sklopi sistema
-keywords: portal, spletni vmesnik, mobilni vmesnik
+keywords: portal, spletni vmesnik, mobilni vmesnik, urejevalnik, spletni servisi, wms, wmts, wfs, qgis
 sidebar: gp_sidebar
 permalink: sklopi.html
 folder: gp
@@ -107,3 +107,11 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 - Spremembe so takoj vidne v sistemu
 
 {% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" caption="Mobilni vmesnik s prikazom lokacije" %}
+
+## 4. Spletni servisi
+
+Za napredne uporabnike in po dogovoru z naročnikom so na voljo različni spletni servisi skladni s specifikacijami <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.ogc}}">**OGC**</a>.
+
+1. WMS/WMTS servis za prikaz Digitalnih ortofoto načrtov DOF025 za celotno Slovenijo (opomba: Geodetska uprava zagotavlja servise za manj kvalitetne posnetke DOF050).
+2. WMS/WMTS servis za rastrski prikaz vsebin, ki se nahajajo v GEO-PORTAL-u.
+3. WFS servis za dostop do vsebin GEO-PORTAL-a v vektorski obliki.
