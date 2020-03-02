@@ -11,4 +11,4 @@ V prvem delu je na voljo nova podlaga, ki prikazuje senčen prikaz Digitalnega m
 
 {% include image.html file="posts/2020-03-02-01.png" alt="lidar" caption="Uporaba nove podlage Teren (LiDAR) v spletnem vmesniku" %}
 
-V drugem delu bomo vključili podatke o nadmorski višini v poizvedbo o lokaciji.
+V drugem delu bomo vključili podatke o nadmorski višini v poizvedbo na lokaciji.
