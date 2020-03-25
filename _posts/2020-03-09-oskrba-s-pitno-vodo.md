@@ -9,6 +9,7 @@ GEO-PORTAL ponuja celovito rešitev izvajalcem javne službe (JS) za evidenco os
 Značilnosti:
 - vsi ključni podatki (vodovodni sistemi, priključenost objektov, št. preb. na naslovu, aglomeracije, GJI vodovod) na enem mestu dostopni v pisarni ali terenu
 - uvoz podatkov o odjemnih mestih in porabi iz komunalnih programov
+- možnost urejanja podatkov
 - priprava obveznih poročevalskih tabel za občine in za izvajalce JS v informacijski sistem za spremljanje javnih služb (IJSVO)
 - priprava območij javnega vodovoda glede na Uredbo o oskrbi s pitno vodo
 - poročila glede na dejansko stanje podatkov (št. priključenih stavb in oseb, razne kontrole,...)
