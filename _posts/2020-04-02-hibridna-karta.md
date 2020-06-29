@@ -10,4 +10,3 @@ se lahko uporablja samostojno ali v kombinaciji z ostalimi podlagami v sistemu.
 {% include image.html file="posts/2020-04-02-01.gif" alt="" caption="" %}
 {% include image.html file="posts/2020-04-02-02.gif" alt="" caption="" %}
 {% include image.html file="posts/2020-04-02-03.gif" alt="" caption="" %}
-testx
