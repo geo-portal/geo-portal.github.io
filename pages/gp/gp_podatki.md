@@ -1,6 +1,6 @@
 ---
 title: Podatki
-keywords: gurs, geodetska uprava, dof, rpe, hišne številke, naslovi, gji, kataster, stavb, infrastruktura, prostorski podatki
+keywords: gurs, geodetska uprava, dof, rpe, hišne številke, naslovi, gji, kataster, stavb, infrastruktura, prostorski podatki, lidar, arso
 sidebar: gp_sidebar
 permalink: podatki.html
 folder: gp
@@ -16,13 +16,13 @@ folder: gp
 - Možnost [prikaza točnega datuma snemanja posameznega lista](2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Register prostorskih enot (RPE)
-{% include stanje.html content="02.02.2020" %}
+{% include stanje.html content="01.07.2020" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Integracija v glavni iskalnik (iskanje po naslovu, naselju, občini)
 
 ### Gospodarska javna infrastruktura (GJI)
-{% include stanje.html content="13.02.2020" %}
+{% include stanje.html content="01.07.2020" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
@@ -38,9 +38,16 @@ folder: gp
 " type="primary" %} 
 
 ### Kataster stavb (KS)
-{% include stanje.html content="01.02.2020" %}
+{% include stanje.html content="01.07.2020" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
+
+## Agencija RS za okolje
+
+### LiDAR
+{% include stanje.html content="Leta 2015 zaključen projekt za celo SLO" %}
+
+- [Vključitev podatkov LiDAR 1. del](2020-03-02-vkljucitev-lidar-1.html)
 
 ## Drugo
 Ostale vsebine Geodetske uprave (parcele,...) in vsebine drugih ponudnikov (Arso,...) se dodajajo glede na posamezne potrebe naročnika.
