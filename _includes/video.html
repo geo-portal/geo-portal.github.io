@@ -1,0 +1,8 @@
+<figure>
+    <video controls {% if {{include.autoplay}} %}autoplay muted{% endif %}>
+        <source src="images/{{include.file}}" type="video/mp4">
+    </video>
+    {% if {{include.caption}} %}
+    <figcaption>{{include.caption}}</figcaption>
+    {% endif %}
+</figure>

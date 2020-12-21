@@ -461,10 +461,10 @@ dl.dl-horizontal dd {
 
 figcaption {
 
-    padding-bottom:12px;
-    padding-top:6px;
+    padding-bottom: 12px;
+    padding-top: 6px;
     max-width: 90%;
-    margin-bottom:20px;
+    margin-bottom: 10px;
     font-style: italic;
     color: gray;
 
@@ -774,10 +774,18 @@ pre {
 
 video {
     display: block;
-    margin: 30px 0px;
+    margin-top: 20px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    margin-left: 0px;
     border: 1px solid #c0c0c0;
+    max-width: 100%;
+    height: auto;
 }
 
+video:focus {
+    outline: none;
+}
 
 p.required, p.dataType {display: block; color: #c0c0c0; font-size: 80%; margin-left:4px;}
 
