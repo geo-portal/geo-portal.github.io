@@ -48,6 +48,7 @@ folder: gp
 {% include stanje.html content="Leta 2015 zaključen projekt za celo SLO" %}
 
 - [Vključitev podatkov LiDAR 1. del](2020-03-02-vkljucitev-lidar-1.html)
+- [Vključitev podatkov LiDAR 2. del](2021-01-04-vkljucitev-lidar-2.html)
 
 ## Drugo
 Ostale vsebine Geodetske uprave (parcele,...) in vsebine drugih ponudnikov (Arso,...) se dodajajo glede na posamezne potrebe naročnika.
