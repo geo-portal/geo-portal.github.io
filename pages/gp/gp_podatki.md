@@ -16,13 +16,13 @@ folder: gp
 - Možnost [prikaza točnega datuma snemanja posameznega lista](2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Register prostorskih enot (RPE)
-{% include stanje.html content="01.07.2020" %}
+{% include stanje.html content="02.01.2021" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Integracija v glavni iskalnik (iskanje po naslovu, naselju, občini)
 
 ### Gospodarska javna infrastruktura (GJI)
-{% include stanje.html content="25.10.2020" %}
+{% include stanje.html content="10.01.2021" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
@@ -38,7 +38,7 @@ folder: gp
 " type="primary" %} 
 
 ### Kataster stavb (KS)
-{% include stanje.html content="01.07.2020" %}
+{% include stanje.html content="09.01.2021" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
@@ -47,8 +47,8 @@ folder: gp
 ### LiDAR
 {% include stanje.html content="Leta 2015 zaključen projekt za celo SLO" %}
 
-- [Vključitev podatkov LiDAR 1. del](2020-03-02-vkljucitev-lidar-1.html)
-- [Vključitev podatkov LiDAR 2. del](2021-01-04-vkljucitev-lidar-2.html)
+- Senčen prikaz Digitalnega modela reliefa [Vključitev podatkov LiDAR 1. del](2020-03-02-vkljucitev-lidar-1.html)
+- Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](2021-01-04-vkljucitev-lidar-2.html)
 
 ## Drugo
 Ostale vsebine Geodetske uprave (parcele,...) in vsebine drugih ponudnikov (Arso,...) se dodajajo glede na posamezne potrebe naročnika.
