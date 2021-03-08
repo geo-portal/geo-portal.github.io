@@ -1,7 +1,7 @@
 ---
 title:  "Projekt evidentiranja kabelskega omrežja"
 permalink: 2019-09-evidentiranje-kabelskega-omrezja.html
-tags: [novice,gji]
+tags: [novice,gji,telekomunikacije]
 ---
 
 Za projekt evidentiranja hišnih priključkov in novogradenj kabelskega omrežja podjetja Telemach d.d. za celotno Slovenijo, ponuja GEO-PORTAL celovito in učinkovito rešitev.

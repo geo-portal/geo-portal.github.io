@@ -1,7 +1,7 @@
 ---
 title:  "Projekt oskrbe s pitno vodo"
 permalink: 2020-03-09-oskrba-s-pitno-vodo-ijsvo.html
-tags: [novice]
+tags: [novice,komunala]
 ---
 
 GEO-PORTAL ponuja celovito rešitev izvajalcem javne službe (JS) za evidenco oskrbe s pitno vodo (komunalna podjetja in občinski režijski obrati).

@@ -75,6 +75,8 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje pre
 
 {% include image.html file="spletni_vmesnik2.png" alt="spletni-vmesnik" caption="Spletni vmesnik v celozaslonskem načinu in s pripravo za tisk" %}
 
+{% include callout.html content="[Pregled objav za spletni vmesnik](tag_spletni_vmesnik.html)" type="primary" %} 
+
 ## 3. Mobilni vmesnik
 
 Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na terenu.
@@ -107,6 +109,8 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 - Spremembe so takoj vidne v sistemu
 
 {% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" caption="Mobilni vmesnik s prikazom lokacije" %}
+
+{% include callout.html content="[Pregled objav za mobilni vmesnik](tag_mobilni_vmesnik.html)" type="primary" %} 
 
 ## 4. Spletni servisi
 

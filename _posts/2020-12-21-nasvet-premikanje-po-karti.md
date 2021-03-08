@@ -1,7 +1,7 @@
 ---
 title:  "NASVET: Premikanje po karti"
 permalink: 2020-12-21-nasvet-premikanje-po-karti.html
-tags: [nasveti]
+tags: [nasveti,spletni_vmesnik]
 ---
 
 V spletnem vmesniku imamo na voljo več načinov premikanja in povečave karte:

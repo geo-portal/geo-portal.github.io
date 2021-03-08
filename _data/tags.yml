@@ -4,16 +4,19 @@
 allowed-tags:
 #  - getting_started
 #  - content_types
-#  - navigation
-#  - formatting
-#  - publishing
-#  - single_sourcing
-#  - special_layouts
-#  - collaboration
+  #  - navigation
+  #  - formatting
+  #  - publishing
+  #  - single_sourcing
+  #  - special_layouts
+  #  - collaboration
   - novice
   - nasveti
   - gji
+  - komunala
+  - telekomunikacije
   - javna_razsvetljava
   - mobilni_vmesnik
+  - spletni_vmesnik
 #  - troubleshooting
 #  - mobile
