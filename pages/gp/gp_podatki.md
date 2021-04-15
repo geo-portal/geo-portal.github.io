@@ -10,7 +10,7 @@ folder: gp
 
 ### Digitalni ortofoto načrti (DOF025)
 {% include stanje.html content="Leto snemanja 2018 - 2020" %}
-{% include image.html file="dof_stanje_2020_120dpi.png" alt="stanje-dof" caption="" %}
+{% include image.html file="dof_stanje_2020_102dpi.png" alt="stanje-dof" caption="" %}
 
 - Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm)
 - Možnost [prikaza točnega datuma snemanja posameznega lista](2020-02-27-nasvet-datum-snemanja-dof.html)
