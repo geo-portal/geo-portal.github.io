@@ -38,7 +38,7 @@ folder: gp
 " type="primary" %} 
 
 ### Kataster stavb (KS)
-{% include stanje.html content="09.01.2021" %}
+{% include stanje.html content="01.05.2021" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
