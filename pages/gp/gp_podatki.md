@@ -19,10 +19,10 @@ folder: gp
 {% include stanje.html content="02.01.2021" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
-- Integracija v glavni iskalnik (iskanje po naslovu, naselju, občini)
+- Iskanje po naslovu, naselju ali občini
 
 ### Gospodarska javna infrastruktura (GJI)
-{% include stanje.html content="25.07.2021" %}
+{% include stanje.html content="26.11.2021" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
@@ -33,9 +33,16 @@ folder: gp
   simbologija glede na natančnost vira,...)
 
 {% include callout.html content="**Posebnosti za elektronske komunikacije**:<br/>
+- Prikaz omrežnih priključnih točk (OPT)
 - Kompletna podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD preko sistema relacijskih tabel<br/>
 - Poseben prikaz trase, kjer potekajo Optični kabli ter trase kjer so v zemlji položene cevi
 " type="primary" %} 
+
+### Zemljiški kataster (ZK)
+{% include stanje.html content="31.10.2021" %}
+
+- [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
+- Iskanje po katastrski občini in parcelni številki
 
 ### Kataster stavb (KS)
 {% include stanje.html content="01.05.2021" %}
@@ -51,7 +58,7 @@ folder: gp
 - Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](2021-01-04-vkljucitev-lidar-2.html)
 
 ## Drugo
-Ostale vsebine Geodetske uprave (parcele,...) in vsebine drugih ponudnikov (Arso,...) se dodajajo glede na posamezne potrebe naročnika.
+Ostale vsebine se dodajajo glede na posamezne potrebe naročnika.
 
 ## Podatki naročnika
 Podatki naročnika se pripravijo in integrirajo v sistem glede na želje naročnika.
