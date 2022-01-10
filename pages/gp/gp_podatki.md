@@ -16,7 +16,7 @@ folder: gp
 - Možnost [prikaza točnega datuma snemanja posameznega lista](2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Register prostorskih enot (RPE)
-{% include stanje.html content="02.01.2021" %}
+{% include stanje.html content="02.01.2022" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po naslovu, naselju ali občini
@@ -45,7 +45,7 @@ folder: gp
 - Iskanje po katastrski občini in parcelni številki
 
 ### Kataster stavb (KS)
-{% include stanje.html content="01.05.2021" %}
+{% include stanje.html content="01.01.2022" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
