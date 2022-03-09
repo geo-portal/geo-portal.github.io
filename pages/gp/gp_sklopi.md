@@ -1,6 +1,6 @@
 ---
 title: Sklopi sistema
-keywords: portal, spletni vmesnik, mobilni vmesnik, urejevalnik, spletni servisi, wms, wmts, wfs, qgis
+keywords: portal, spletni gis, mobilni gis, spletni vmesnik, mobilni vmesnik, urejevalnik, spletni servisi, wms, wmts, wfs, qgis
 sidebar: gp_sidebar
 permalink: sklopi.html
 folder: gp
@@ -35,7 +35,7 @@ Možnosti administratorjev se lahko prilagodijo naročnikovim zahtevam.
 
 Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja posebnih dodatkov.
 
-### Značilnosti
+### GIS pregledovalnik
 - splošna navigacija v prostoru in izbira različnih vsebin
 - poizvedovanja na lokaciji, prikaz trenutne lokacije
 - integriran prikaz elementov na karti in tabele opisnih podatkov
@@ -62,7 +62,7 @@ Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja p
 
 {% include image.html file="moznosti_sloja.png" alt="moznosti-sloja" caption="Možnosti vektorskega sloja in prikaz okna za izvoz podatkov" %}
 
-### Urejevalnik
+### GIS urejevalnik
 Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje preko spletnega vmesnika tudi urejati:
 - Kreiranje novih elementov (risanje), urejanje geometrije  in atributov, brisanje elementov
 - Dodajanje dokumentov elementu (fotografije ali drugi dokumenti)
@@ -82,7 +82,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje pre
 Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na terenu.
 {% include note.html content="Mobilni vmesnik se naloži samodejno, ko odpremo GEO-PORTAL preko brskalnika na pametnem telefonu ali tablici." %}
 
-### Značilnosti
+### Mobilni GIS pregledovalnik
 - splošna navigacija v prostoru in izbira različnih vsebin
 - možnost sledenja karte trenutnemu položaju uporabnika
 - poizvedovanja na lokaciji, prikaz trenutne lokacije z informacijo o natančnosti, višini,…
@@ -91,7 +91,7 @@ Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na tere
 - prilagodljivost (območje, vsebine, jezik, vmesnik,...)
 - dostop glede na dodeljene pravice
 
-### Urejevalnik
+### Mobilni GIS urejevalnik
 Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na terenu preko mobilnega vmesnika tudi zajemati in urejati.:
 - Kreiranje novih elementov, urejanje atributov, brisanje elementov
 - Dodajanje dokumentov elementu (fotografije ali drugi dokumenti)
@@ -112,7 +112,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 
 {% include callout.html content="[Pregled objav za mobilni vmesnik](tag_mobilni_vmesnik.html)" type="primary" %} 
 
-## 4. Spletni servisi
+## 4. GIS Spletni servisi
 
 Za napredne uporabnike in po dogovoru z naročnikom so na voljo različni spletni servisi skladni s specifikacijami <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.ogc}}">**OGC**</a>.
 

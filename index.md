@@ -3,7 +3,7 @@ title: "Uvod"
 keywords: geoportal, gis, qgis, prostorski informacijski sistem, geografski informacijski sistem, značilnosti, koordinatni sistem, postopek, dostop
 sidebar: gp_sidebar
 permalink: index.html
-summary: GEO-PORTAL je moderen spletni geoinformacijski sistem, namenjen podjetjem, javnim ustanovam in drugim organizacijam, za delo s prostorskimi podatki v pisarni in na terenu.
+summary: GEO-PORTAL je moderen spletni in mobilni geografski informacijski sistem (GIS), namenjen podjetjem, javnim ustanovam in drugim organizacijam, za delo s prostorskimi podatki v pisarni in na terenu.
 ---
 <a target="_blank" rel="noopener" class="noCrossRef" href="/pdf/predstavitev.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF predstavitev za tisk</button></a>
 
