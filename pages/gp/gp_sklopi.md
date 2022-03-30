@@ -1,6 +1,6 @@
 ---
 title: Sklopi sistema
-keywords: portal, spletni gis, mobilni gis, spletni vmesnik, mobilni vmesnik, urejevalnik, spletni servisi, wms, wmts, wfs, qgis
+keywords: portal, spletni gis, mobilni gis, spletni vmesnik, mobilni vmesnik, urejevalnik, spletni servisi, wms, wmts, wfs, qgis, google streetview
 sidebar: gp_sidebar
 permalink: sklopi.html
 folder: gp
