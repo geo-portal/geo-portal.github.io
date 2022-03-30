@@ -7,7 +7,7 @@ tags: [novice]
 Storitev GEO-PORTAL od sedaj naprej na lastnem fizičnem strežniku v ustreznem podatkovnem centru v Ljubljani. To pomeni hitrejše delovanje, 
 večji nadzor nad delovanjem sistema in boljše možnosti nadgradnje.
 
-{% include image.html file="posts/2022-03-28-02.jpg" max-width=500 alt="server-geo-portal" caption="" %}
+{% include image.html file="posts/2022-03-28-02.jpg" alt="server-geo-portal" caption="" %}
 
 ## Značilnosti:
 - neprekinjeno električno napajanje (UPS, Agregat)
