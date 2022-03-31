@@ -9,4 +9,4 @@ Izvedli smo posodobitev naslednjih podatkov Geodetske uprave RS:
 - Register prostorskih enot (hišne številke, ulice, naselja, občine)
 - Kataster stavb
 
-Aktualno stanje podatkov je objavljeno na strani [podatki](podatki.html#gospodarska-javna-infrastruktura-gji).
+V bodoče se posodobitve podatkov ne bodo posebej objavljale, vedno pa je aktualno stanje podatkov vidno na strani [podatki](podatki.html#gospodarska-javna-infrastruktura-gji).
