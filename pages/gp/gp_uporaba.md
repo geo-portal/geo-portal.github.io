@@ -1,6 +1,6 @@
 ---
 title: Področja uporabe
-keywords: občin,komunala,komunalno podjetje,agencija,komunalna,infrastruktura,telekomunikacije,elektro,plin,energetika,javna razsvetljava,prostorsko načrtovanje,okolje,prostor,nepremičnin,ekologija,trgovska mreža,prodaja,marketing
+keywords: občin,komunala,komunalno podjetje,agencija,komunalna,infrastruktura,telekomunikacije,elektro,plin,energetika,javna razsvetljava,pokopališka dejavnost,prostorsko načrtovanje,okolje,prostor,nepremičnin,ekologija,trgovska mreža,prodaja,marketing
 sidebar: gp_sidebar
 permalink: uporaba.html
 folder: gp
@@ -17,6 +17,7 @@ terenu vnaša nove elemente, spreminja podatke, dodaja fotografije,.. Vse to je 
 - [Telekomunikacije](tag_telekomunikacije.html)<br/>
 - Energetika<br/>
 - [Javna razsvetljava](tag_javna_razsvetljava)<br/>
+- Pokopališka dejavnost<br/>
 - Prostorsko načrtovanje<br/>
 - Upravljanje nepremičnin<br/>
 - Transport in logistika<br/>
