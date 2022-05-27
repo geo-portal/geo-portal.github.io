@@ -112,14 +112,16 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 
 {% include callout.html content="[Pregled objav za mobilni vmesnik](tag_mobilni_vmesnik.html)" type="primary" %} 
 
-## 4. Mobilna GIS aplikacija za delo na terenu brez internetne povezave
+## 4. Mobilna GIS aplikacija ("offline" način)
 
 Za primere, kjer na terenu ni mogoča stalna internetna povezava, si lahko uporabniki namestijo mobilno aplikacijo.
 - prevzem projekta na napravo za delo brez povezave
 - lokalni zajem podatkov in fotografij
-- prilagodljive vnosni obrazci
+- prilagodljivi vnosni obrazci
 - sinhronizacija podatkov in fotografij na strežnik
 - primerno za skupinsko delo na večjih projektih
+- enostavna za uporabo 
+- brez odvečnega kopiranja podatkov med računalnikom in mobilno napravo
 - podpora zunanjim GNSS sprejemnikom za večjo natančost lokacije
 - na voljo za Android in iOS operacijske sisteme
 
