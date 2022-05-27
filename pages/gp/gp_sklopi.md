@@ -112,7 +112,23 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 
 {% include callout.html content="[Pregled objav za mobilni vmesnik](tag_mobilni_vmesnik.html)" type="primary" %} 
 
-## 4. GIS Spletni servisi
+## 4. Mobilna GIS aplikacija za delo na terenu brez internetne povezave
+
+Za primere, kjer na terenu ni mogoča stalna internetna povezava, si lahko uporabniki namestijo mobilno aplikacijo.
+- prevzem projekta na napravo za delo brez povezave
+- lokalni zajem podatkov in fotografij
+- prilagodljive vnosni obrazci
+- sinhronizacija podatkov in fotografij na strežnik
+- primerno za skupinsko delo na večjih projektih
+- podpora zunanjim GNSS sprejemnikom za večjo natančost lokacije
+- na voljo za Android in iOS operacijske sisteme
+
+## 5. Namizna GIS aplikacija
+
+Za napredne GIS analize in obdelave podatkov je na voljo namizna aplikacija <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.qgis}}">**QGIS**</a> z neposrednim dostopom do skupne baze 
+podatkov naročnika. 
+
+## 6. GIS Spletni servisi
 
 Za napredne uporabnike in po dogovoru z naročnikom so na voljo različni spletni servisi skladni s specifikacijami <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.ogc}}">**OGC**</a>.
 
