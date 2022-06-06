@@ -22,7 +22,7 @@ folder: gp
 - Iskanje po naslovu, naselju ali občini
 
 ### Gospodarska javna infrastruktura (GJI)
-{% include stanje.html content="26.11.2021" %}
+{% include stanje.html content="4.6.2022" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
