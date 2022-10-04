@@ -15,7 +15,7 @@ terenu vnaša nove elemente, spreminja podatke, dodaja fotografije,.. Vse to je 
 {% include callout.html content="**Panoge primerne za uporabo GEO-PORTALA**:<br/>
 - [Komunalna infrastruktura](tag_komunala.html)<br/>
 - [Telekomunikacije](tag_telekomunikacije.html)<br/>
-- Energetika<br/>
+- [Energetika](tag_energetika.html)<br/>
 - [Javna razsvetljava](tag_javna_razsvetljava)<br/>
 - Pokopališka dejavnost<br/>
 - Prostorsko načrtovanje<br/>
