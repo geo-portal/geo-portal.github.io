@@ -33,7 +33,7 @@ Možnosti administratorjev se lahko prilagodijo naročnikovim zahtevam.
 
 ## 2. Spletni vmesnik
 
-Dostop do vsebin v QGIS projektu preko spletnega brskalnika, brez nameščanja posebnih dodatkov.
+Dostop do vsebin QGIS projekta preko spletnega brskalnika, brez nameščanja posebnih dodatkov.
 
 ### GIS pregledovalnik
 - splošna navigacija v prostoru in izbira različnih vsebin
@@ -108,7 +108,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
 - Spremembe so takoj vidne v sistemu
 
-{% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" caption="Mobilni vmesnik s prikazom lokacije" %}
+{% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" max-width=350 caption="Mobilni vmesnik s prikazom lokacije" %}
 
 {% include callout.html content="[Pregled objav za mobilni vmesnik](tag_mobilni_vmesnik.html)" type="primary" %} 
 
@@ -125,10 +125,10 @@ Za primere, kjer na terenu ni mogoča stalna internetna povezava, si lahko upora
 - podpora zunanjim GNSS sprejemnikom za večjo natančost lokacije
 - na voljo za Android in iOS operacijske sisteme
 
-## 5. Namizna GIS aplikacija
+## 5. QGIS Namizna aplikacija
 
-Za napredne GIS analize in obdelave podatkov je na voljo namizna aplikacija <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.qgis}}">**QGIS**</a> z neposrednim dostopom do skupne baze 
-podatkov naročnika. 
+Za pripravo projektov za objavo, napredne GIS analize ter obdelave podatkov je na voljo namizna aplikacija [**QGIS**](index.html#qgis) z neposrednim dostopom do skupne baze 
+podatkov naročnika.
 
 ## 6. GIS Spletni servisi
 
