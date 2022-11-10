@@ -87,6 +87,7 @@ Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na tere
 - možnost sledenja karte trenutnemu položaju uporabnika
 - poizvedovanja na lokaciji, prikaz trenutne lokacije z informacijo o natančnosti, višini,…
 - iskalniki
+- merjenje
 - prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - prilagodljivost (območje, vsebine, jezik, vmesnik,...)
 - dostop glede na dodeljene pravice
