@@ -1,6 +1,6 @@
 ---
 title: Podatki
-keywords: gurs, geodetska uprava, dof, rpe, hišne številke, naslovi, gji, kataster, stavb, infrastruktura, prostorski podatki, lidar, arso
+keywords: gurs, geodetska uprava, arso, drsv, dof, gji, rpe, zk, ks, kn, hišne številke, naslovi, kataster nepremičnin, kataster stavb, zemljiški kataster, infrastruktura, prostorski podatki, lidar
 sidebar: gp_sidebar
 permalink: podatki.html
 folder: gp
@@ -38,16 +38,11 @@ folder: gp
 - Poseben prikaz trase, kjer potekajo Optični kabli ter trase kjer so v zemlji položene cevi
 " type="primary" %} 
 
-### Zemljiški kataster (ZK)
-{% include stanje.html content="31.10.2021" %}
+### Kataster nepremičnin (Parcele, Stavbe)
+{% include stanje.html content="20.11.2022" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po katastrski občini in parcelni številki
-
-### Kataster stavb (KS)
-{% include stanje.html content="01.01.2022" %}
-
-- [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
 ## Agencija RS za okolje
 
@@ -56,6 +51,17 @@ folder: gp
 
 - Senčen prikaz Digitalnega modela reliefa [Vključitev podatkov LiDAR 1. del](2020-03-02-vkljucitev-lidar-1.html)
 - Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](2021-01-04-vkljucitev-lidar-2.html)
+
+## Direkcija RS za vode
+
+### Vodna knjiga
+{% include stanje.html content="30.9.2022" %}
+
+- [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
+- Podatki vodne knjige vključujejo:
+  - Vodne pravice (vodna dovoljenja in koncesije)
+  - Posebno rabo vode
+  - Vodna soglasja
 
 ## Drugo
 Ostale vsebine se dodajajo glede na posamezne potrebe naročnika.
