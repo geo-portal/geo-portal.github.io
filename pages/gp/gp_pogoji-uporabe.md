@@ -20,9 +20,7 @@ Pogoji uporabe se nanašajo in uporabljajo za vse uporabnike in storitve GEO-POR
   - dostop do zadnjega stanja vseh evidenc za pooblaščene osebe
   - uporabniški vmesnik za pisarno z naprednimi orodji ter kvalitetnim tiskanjem v PDF,
   - uporabniški vmesnik za teren z uporabo telefona ali tablice
-  - priprava poročil za konkretne potrebe glede na dejansko stanje podatkov
-  - vsi podatki so na strežniku, spremembe so takoj vidne vsem uporabnikom
-  - možnost nadgradnje in prilagajanja specifičnim funkcionalnim in vsebinskim zahtevam
+  - poročila za konkretne potrebe glede na dejansko stanje podatkov
   - uporaba spletnih kartografskih servisov (WMS/WMTS/WFS)
   - neposredni dostop do podatkov z namizno aplikacijo QGIS za naprednejšo uporabo
 - Opcijske dodatne module (Oskrba s pitno vodo, Pokopališka dejavnost) po dogovoru z naročnikom.
