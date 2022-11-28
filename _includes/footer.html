@@ -2,7 +2,9 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy; {{ site.time | date: "%Y"  }} {{site.company_name}}. Vse pravice pridržane. <br />
-{% if page.last_updated %}<span>Zadnja sprememba:</span> {{page.last_updated}}<br/>{% endif %} Posodobljeno: {{ site.time | date: "%d.%m.%Y"  }} <br />
+{% if page.last_updated %}<span>zadnja sprememba:</span> {{page.last_updated}}<br/>{% endif %}
+<!--                    Posodobljeno: {{ site.time | date: "%d.%m.%Y"  }} -->
+                    <br />
 <p><img width="200px" src="{{ "images/geo-portal_logo_qgis.png" }}" alt="GEO-PORTAL runs on QGIS"/></p>
                 </div>
             </div>
