@@ -27,7 +27,7 @@ wkhtmltopdf ni ok
 
 [SLO]
 
-PAZI: interne linke (novice, tagji), ki niso zajeti v PDF že v kodi naredi na absolutne!
+PAZI: interne linke (novice, tagi), ki niso zajeti v PDF že v kodi naredi na absolutne!
 
 6. PdfEscape
    - umakni logo na prvi strani
