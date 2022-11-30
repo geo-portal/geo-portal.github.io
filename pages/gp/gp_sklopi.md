@@ -8,13 +8,18 @@ folder: gp
 
 ## 1. Portal
 
-Portal je vstopna točka v sistem in uporabnikom glede na dodeljene pravice omogoča različne možnosti.
+Portal je vstopna točka v sistem in obiskovalcem ter uporabnikom glede na dodeljene pravice omogoča različne možnosti.
+
+### OBISKOVALEC
+- dostop do [javnih storitev](tag_javna_storitev.html) brez registracije in prijave
 
 ### UPORABNIK
 - registracija in prijava
 - pregledovanje in odpiranje projektov z dodeljenim dostopom
 - ponastavitev gesla
 - nastavitev jezika uporabniškega vmesnika
+
+{% include note.html content="Registracija je na voljo samo za interne uporabnike posameznih naročnikov." %}
 
 {% include image.html file="uporabnik.png" alt="portal-uporabnik" caption="Primer pregleda projektov za uporabnika" %}
 

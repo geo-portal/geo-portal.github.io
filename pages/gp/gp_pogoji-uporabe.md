@@ -4,9 +4,9 @@ keywords:
 sidebar:
 permalink: pogoji-uporabe.html
 folder:
-last_updated: 28.11.2022
+last_updated: 30.11.2022
 ---
-Pogoji uporabe se nanašajo in uporabljajo za vse uporabnike in storitve GEO-PORTAL-a.
+Pogoji uporabe se nanašajo in uporabljajo za obiskovalce in uporabnike vseh storitev GEO-PORTAL-a.
 
 ## Osnovni pojmi
 
@@ -20,20 +20,20 @@ Pogoji uporabe se nanašajo in uporabljajo za vse uporabnike in storitve GEO-POR
   - dostop do zadnjega stanja vseh evidenc za pooblaščene osebe
   - uporabniški vmesnik za pisarno z naprednimi orodji ter kvalitetnim tiskanjem v PDF,
   - uporabniški vmesnik za teren z uporabo telefona ali tablice
-  - poročila za konkretne potrebe glede na dejansko stanje podatkov
+  - poročila
   - uporaba spletnih kartografskih servisov (WMS/WMTS/WFS)
   - neposredni dostop do podatkov z namizno aplikacijo QGIS za naprednejšo uporabo
 - Opcijske dodatne module (Oskrba s pitno vodo, Pokopališka dejavnost) po dogovoru z naročnikom.
 
-**Javne storitve** pomenijo nabor javno dostopnih projektov in drugih javnih storitev sistema, ki so dostopne javnim uporabnikom in ne zahtevajo registracije.
+**Javne storitve** pomenijo nabor javno dostopnih projektov in drugih javnih storitev sistema, ki so dostopne obiskovalcem in ne zahtevajo registracije.
 
 **Naročnik** je pravna oseba ali druga organizacija, ki pri ponudniku naroči izbrane storitve sistema.
 
-**Registrirani uporabnik** je oseba naročnika, ki je izpolnila registracijo in uporablja naročene storitve sistema.
+**Uporabnik** je oseba naročnika, ki je izpolnila registracijo in uporablja naročene storitve sistema.
 
-**Javni uporabnik** je vsak uporabnik, ki dostopa do javnih storitev sistema.
+**Obiskovalec** je posameznik, ki brez registracije in prijave dostopa do javnih storitev sistema.
 
-**Administrator** je registrirani uporabnik, ki je s strani naročnika pooblaščen za dostop do administracije sistema za naročnikovo področje.
+**Administrator** je uporabnik, ki je s strani naročnika pooblaščen za dostop do administracije sistema za naročnikovo področje.
 
 ## Registracija
 
@@ -51,7 +51,7 @@ Za uspešno registracijo mora uporabnik potrditi aktivacijo, ki jo prejme po e-p
 
 ## Preklic registracije
 
-Registrirani uporabnik ima kadarkoli možnost, da na podlagi pisnega obvestila (preko elektronske pošte), od ponudnika zahteva, 
+Uporabnik ima kadarkoli možnost, da na podlagi pisnega obvestila (preko elektronske pošte), od ponudnika zahteva, 
 da se njegovi podatki zbrišejo iz baze podatkov sistema.
 
 ## Piškotki
@@ -65,7 +65,7 @@ Na spletni strani https://site.geo-portal.si so uporabljeni Google Analytics pi�
 Komunikacija med uporabniki in storitvami poteka preko šifrirane povezave, ki zagotavlja, da do podatkov ne morejo dostopati tretje osebe.
 Poleg tega se varnostno občutljivi podatki, kamor spadajo uporabniška gesla, v bazi podatkov sistema shranjujejo v šifrirani obliki.
 
-Ponudnik se zavezuje, da bo vse podatke, ki jih bo prejel od registriranih uporabnikov in naročnika, uporabljal zgolj za namen izvajanja storitev sistema.
+Ponudnik se zavezuje, da bo vse podatke, ki jih bo prejel od uporabnikov in naročnika, uporabljal zgolj za namen izvajanja storitev sistema.
 Ponudnik podatkov uporabnikov ne bo posredoval tretjim osebam, razen v primeru, da to zahteva zakon ali sodna odločba.
 
 Ponudnik beleži dostope do sistema za namen statističnih analiz, izboljšave storitev in zaščite pred zlorabo.
@@ -84,4 +84,4 @@ so objavljeni na strani: https://site.geo-portal.si/pogoji-uporabe.html.
 
 ## Sprejem pogojev uporabe
 
-Z uporabo storitev sistema, vključno z javnimi, registrirani uporabnik ali javni uporabnik potrjuje, da je seznanjen s pogoji uporabe in jih sprejema.
+Z uporabo storitev sistema, vključno z javnimi, uporabnik ali obiskovalec potrjuje, da je seznanjen s pogoji uporabe in jih sprejema.
