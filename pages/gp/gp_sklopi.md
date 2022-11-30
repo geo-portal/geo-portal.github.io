@@ -11,7 +11,7 @@ folder: gp
 Portal je vstopna točka v sistem in obiskovalcem ter uporabnikom glede na dodeljene pravice omogoča različne možnosti.
 
 ### OBISKOVALEC
-- dostop do [javnih storitev](tag_javna_storitev.html) brez registracije in prijave
+- dostop do [javnih storitev](https://site.geo-portal.si/tag_javna_storitev.html) brez registracije in prijave
 
 ### UPORABNIK
 - registracija in prijava
@@ -80,7 +80,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje pre
 
 {% include image.html file="spletni_vmesnik2.png" alt="spletni-vmesnik" caption="Spletni vmesnik v celozaslonskem načinu in s pripravo za tisk" %}
 
-{% include callout.html content="[Pregled objav za spletni vmesnik](tag_spletni_vmesnik.html)" type="primary" %} 
+{% include callout.html content="[Pregled objav za spletni vmesnik](https://site.geo-portal.si/tag_spletni_vmesnik.html)" type="primary" %} 
 
 ## 3. Mobilni vmesnik
 
@@ -116,7 +116,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 
 {% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" max-width=350 caption="Mobilni vmesnik s prikazom lokacije" %}
 
-{% include callout.html content="[Pregled objav za mobilni vmesnik](tag_mobilni_vmesnik.html)" type="primary" %} 
+{% include callout.html content="[Pregled objav za mobilni vmesnik](https://site.geo-portal.si/tag_mobilni_vmesnik.html)" type="primary" %} 
 
 ## 4. Mobilna GIS aplikacija ("offline" način)
 

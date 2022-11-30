@@ -13,7 +13,7 @@ folder: gp
 {% include image.html file="dof_stanje_2021_102dpi.png" alt="stanje-dof" caption="" %}
 
 - Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm)
-- Možnost [prikaza točnega datuma snemanja posameznega lista](2020-02-27-nasvet-datum-snemanja-dof.html)
+- Možnost [prikaza točnega datuma snemanja posameznega lista](https://site.geo-portal.si/2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Register prostorskih enot (RPE)
 {% include stanje.html content="02.01.2022" %}
@@ -49,8 +49,8 @@ folder: gp
 ### LiDAR
 {% include stanje.html content="Leta 2015 zaključen projekt za celo SLO" %}
 
-- Senčen prikaz Digitalnega modela reliefa [Vključitev podatkov LiDAR 1. del](2020-03-02-vkljucitev-lidar-1.html)
-- Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](2021-01-04-vkljucitev-lidar-2.html)
+- Senčen prikaz Digitalnega modela reliefa [Vključitev podatkov LiDAR 1. del](https://site.geo-portal.si/2020-03-02-vkljucitev-lidar-1.html)
+- Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](https://site.geo-portal.si/2021-01-04-vkljucitev-lidar-2.html)
 
 ## Direkcija RS za vode
 

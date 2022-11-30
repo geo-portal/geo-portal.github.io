@@ -27,10 +27,10 @@ wkhtmltopdf ni ok
 
 [SLO]
 
-TODO: interne linke, ki niso zajeti v PDF že v kodi naredi na absolutne, saj ne boš več popravljal starih novic!
+PAZI: interne linke (novice, tagji), ki niso zajeti v PDF že v kodi naredi na absolutne!
 
 6. PdfEscape
    - umakni logo na prvi strani
+   - umakni footer iz kazala
    - umakni gumb za PDF iz druge strani
-   - vse interne linke ki ne delajo popravi na absolutni url (kjer ti piše stran 0 in to umakni)
    - zmanjšaj sliko mobilnega vmesnika in prestavi caption pod sliko (drži control da ohrani merilo)

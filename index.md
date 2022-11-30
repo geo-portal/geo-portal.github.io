@@ -48,7 +48,7 @@ Vstopna stran GEO-PORTALA se nahaja na naslovu: **[https://geo-portal.si](https:
 
 Javna registracija uporabnikov trenutno ni na voljo, v primeru da se zanimate za dostop za vašo organizacijo nas **[kontaktirajte](podpora.html)**.
 
-{% include callout.html content="[Pregled javnih storitev ki so na voljo vsem uporabnikom brez registracije.](tag_javna_storitev.html)" type="primary" %}
+{% include callout.html content="[Pregled javnih storitev ki so na voljo vsem uporabnikom brez registracije.](https://site.geo-portal.si/tag_javna_storitev.html)" type="primary" %}
 
 ## Postopek
 
