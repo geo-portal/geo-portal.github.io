@@ -45,7 +45,7 @@ Registracija je na voljo samo osebam naročnika in pomeni izpolnitev registracij
 - telefon
 - izbrano geslo*
 
-* obvezna polja na registracijskem obrazcu
+(*) obvezna polja na registracijskem obrazcu
 
 Za uspešno registracijo mora uporabnik potrditi aktivacijo, ki jo prejme po e-pošti. Administrator mu nato dodeli pravice za dostop do naročenih storitev.
 
