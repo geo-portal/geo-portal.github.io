@@ -16,7 +16,7 @@ folder: gp
 - Možnost [prikaza točnega datuma snemanja posameznega lista](https://site.geo-portal.si/2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Register prostorskih enot (RPE)
-{% include stanje.html content="02.01.2022" %}
+{% include stanje.html content="02.01.2023" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po naslovu, naselju ali občini
@@ -44,7 +44,7 @@ folder: gp
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po katastrski občini in parcelni številki
 
-## Agencija RS za okolje
+## Ministrstvo za okolje in prostor
 
 ### LiDAR
 {% include stanje.html content="Leta 2015 zaključen projekt za celo SLO" %}
