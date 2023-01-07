@@ -9,8 +9,8 @@ folder: gp
 ## Geodetska uprava RS
 
 ### Digitalni ortofoto načrti (DOF025)
-{% include stanje.html content="Leto snemanja 2018 - 2021" %}
-{% include image.html file="dof_stanje_2021_102dpi.png" alt="stanje-dof" caption="" %}
+{% include stanje.html content="Leto snemanja 2020 - 2022" %}
+{% include image.html file="dof_stanje_2022_102dpi.png" alt="stanje-dof" caption="" %}
 
 - Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm)
 - Možnost [prikaza točnega datuma snemanja posameznega lista](https://site.geo-portal.si/2020-02-27-nasvet-datum-snemanja-dof.html)
@@ -27,16 +27,15 @@ folder: gp
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
 - Povezava na Poslovni register Slovenije preko polj MAT_ST in MAT_GJS za opisne podatke elementov na lokaciji
-- Originalna struktura formata GJI za namene obdelave z drugimi programi (namesto pridobivanja podatkov na Gurs-u, 
-  se lahko uporabi izvoz iz Spletnega vmesnika GEO-PORTAL-a)
 - Priprava prikazov glede na potrebe naročnika (npr. filter po matični številki lastnika, različna
   simbologija glede na natančnost vira,...)
 
-{% include callout.html content="**Posebnosti za elektronske komunikacije**:<br/>
-- Prikaz omrežnih priključnih točk (OPT)
-- Kompletna podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD preko sistema relacijskih tabel<br/>
-- Poseben prikaz trase, kjer potekajo Optični kabli ter trase kjer so v zemlji položene cevi
-" type="primary" %} 
+  **Posebnosti za elektronske komunikacije**:
+  - Prikaz omrežnih priključnih točk (OPT)
+  - Kompletna podpora modela TRASA - CEV - KABEL - VOD in TRASA - KABEL - VOD preko sistema relacijskih tabel<br/>
+  - Poseben prikaz trase, kjer potekajo Optični kabli ter trase kjer so v zemlji položene cevi
+
+{% include callout.html content="Za pripravo elaboratov sprememb v **zbirni kataster GJI** je na voljo **QGIS vtičnik**. [Več informacij](https://level2.si/resitve/qgis-vticnik-gji-elaborat/)" type="primary" %}
 
 ### Kataster nepremičnin (Parcele, Stavbe)
 {% include stanje.html content="20.11.2022" %}
