@@ -128,7 +128,7 @@ Za primere, kjer na terenu ni mogoča stalna internetna povezava, si lahko upora
 - primerno za skupinsko delo na večjih projektih
 - enostavna za uporabo 
 - brez odvečnega kopiranja podatkov med računalnikom in mobilno napravo
-- podpora zunanjim GNSS sprejemnikom za večjo natančost lokacije
+- podpora zunanjim GNSS sprejemnikom za večjo natančnost lokacije
 - na voljo za Android in iOS operacijske sisteme
 
 ## 5. QGIS Namizna aplikacija
