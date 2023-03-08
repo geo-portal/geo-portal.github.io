@@ -11,7 +11,7 @@ folder: gp
 ### Poslovni register Slovenije
 Poslovni register Slovenije (PRS) je osrednja javna baza podatkov o vseh poslovnih subjektih v državi, ki opravljajo pridobitno 
 ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidence in storitve (AJPES).
-{% include stanje.html content="15.02.2023" %}
+{% include stanje.html content="07.03.2023" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Povezava na ePRS preko matične številke za več podatkov o subjektu
@@ -21,7 +21,7 @@ ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidenc
 ### Vodna knjiga
 Vodna knjiga je javna evidenca, ki vsebuje podatke o: podeljenih vodnih pravicah (vodna dovoljenja in koncesije), posebni 
 rabi vode in izdana vodna soglasja.
-{% include stanje.html content="30.9.2022" %}
+{% include stanje.html content="30.09.2022" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
