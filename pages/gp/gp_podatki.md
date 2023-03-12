@@ -28,8 +28,8 @@ rabi vode in izdana vodna soglasja.
 ## Geodetska uprava RS
 
 ### Digitalni ortofoto načrti (DOF025)
-Digitalni ortofoto načrti so izdelani na podlagi snemanja iz zraka in z upoštevanjem podatkov o reliefu in absolutne orientacije aerofotografij pretvorjeni v ortogonalno projekcijo. 
-V metričnem smislu so enaki linijskemu načrtu ali karti. 
+Digitalni ortofoto načrti so izdelani na podlagi snemanja iz zraka in z upoštevanjem podatkov o reliefu in absolutne orientacije aerofotografij pretvorjeni v pravokotno(ortogonalno) projekcijo. 
+V metričnem smislu so enaki načrtu ali karti. 
 {% include stanje.html content="Leto snemanja 2020 - 2022" %}
 {% include image.html file="dof_stanje_2022_102dpi.png" alt="stanje-dof" caption="" %}
 
