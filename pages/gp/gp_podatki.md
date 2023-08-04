@@ -65,7 +65,7 @@ Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za 
 ### Register prostorskih enot in naslovov
 Register prostorskih enot (RPE) je evidenca o administrativno določenih prostorskih enotah (občine, naselja, upravne enote, ulice, šolski okoliši, krajevne skupnosti, poštni okoliši,...).
 Register naslovov je evidenca podatkov o naslovih.
-{% include stanje.html content="02.01.2023" %}
+{% include stanje.html content="03.08.2023" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po naslovu, naselju ali občini
