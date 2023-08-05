@@ -57,7 +57,9 @@ Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za 
 {% include callout.html content="Za pripravo elaboratov sprememb v **zbirni kataster GJI** je na voljo **QGIS vtičnik**. [Več informacij](https://level2.si/resitve/qgis-vticnik-gji-elaborat/)" type="primary" %}
 
 ### Kataster nepremičnin (Parcele, Stavbe)
-{% include stanje.html content="20.11.2022" %}
+Kataster nepremičnin je temeljna evidenca o položaju, obliki, fizičnih in drugih lastnostih parcel, stavb in delov stavb. 
+Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah.
+{% include stanje.html content="30.07.2023" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po katastrski občini in parcelni številki
