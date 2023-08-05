@@ -20,8 +20,8 @@ ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidenc
 
 ### Vodna knjiga
 Vodna knjiga je javna evidenca, ki vsebuje podatke o: podeljenih vodnih pravicah (vodna dovoljenja in koncesije), posebni 
-rabi vode in izdana vodna soglasja.
-{% include stanje.html content="30.09.2022" %}
+rabi vode in izdanih vodnih soglasjih.
+{% include stanje.html content="05.06.2023" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 
