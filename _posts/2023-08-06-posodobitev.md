@@ -12,7 +12,7 @@ V preteklih dneh smo izvedli posodobitev glavnih državnih vsebin v sistemu:
 - Poslovni register
 
 Posamezne vmesne posodobitve niso nujno objavljene kot novica, zato je potrebno spremljati aktualno stanje podatkov, ki 
-je objavljeno na strani [podatki](podatki.html#gospodarska-javna-infrastruktura-gji).
+je objavljeno na strani [podatki](podatki.html).
 
 {% include callout.html content="Evidence Geodetske uprave (Kataster nepremičnin in Gospodarska javna infrastruktura) so zaradi konkretnih sprememb strukture 
 prejetih podatkov precej preurejene za potrebe prikaza v sistemu, tako da ne izkazujejo podatkov v originalni obliki." type="info" %}
