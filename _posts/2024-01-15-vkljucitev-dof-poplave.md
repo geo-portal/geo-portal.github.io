@@ -10,4 +10,6 @@ predstavljajo koristen vir informacij.
 
 {% include image.html file="dof_poplave_2023.png" alt="dof_2023_poplave" caption="Območje izdelanega DOF Poplave 23" %}
 
+Na voljo so kot možnost med dodatnimi sloji v ustreznih projektih.
+
 Vir podatkov: Direkcija RS za vode.
