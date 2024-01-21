@@ -41,7 +41,7 @@ Gospodarska javna infrastruktura (GJI) so objekti in omrežja neposredno namenje
 ali lokalnega pomena iz področij prometa, energetike, komunalnega gospodarstva, elektronskih komunikacij, upravljanja z 
 vodami in gospodarjenja z drugimi vrstami naravnega bogastva ali varstva okolja.
 Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za celotno državo.
-{% include stanje.html content="14.10.2023" %}
+{% include stanje.html content="15.01.2024" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
