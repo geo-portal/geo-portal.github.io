@@ -30,11 +30,12 @@ rabi vode in izdanih vodnih soglasjih.
 ### Digitalni ortofoto načrti (DOF025)
 Digitalni ortofoto načrti so izdelani na podlagi snemanja iz zraka in z upoštevanjem podatkov o reliefu in absolutne orientacije aerofotografij pretvorjeni v pravokotno(ortogonalno) projekcijo. 
 V metričnem smislu so enaki načrtu ali karti. 
-{% include stanje.html content="Leto snemanja 2020 - 2022" %}
-{% include image.html file="dof_stanje_2022_102dpi.png" alt="stanje-dof" caption="" %}
+{% include stanje.html content="Leto snemanja 2021 - 2023" %}
+{% include image.html file="dof_stanje_2023_102dpi.png" alt="stanje-dof" caption="" %}
 
 - Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm)
 - Možnost [prikaza točnega datuma snemanja posameznega lista](https://site.geo-portal.si/2020-02-27-nasvet-datum-snemanja-dof.html)
+- Možnost prikaza starejših arhivskih ortofoto načrtov
 
 ### Gospodarska javna infrastruktura (GJI)
 Gospodarska javna infrastruktura (GJI) so objekti in omrežja neposredno namenjeni izvajanju nalog javnih služb državnega 
@@ -83,7 +84,7 @@ Aglomeracije so območja poselitve določena v operativnem programu oskrbe s pit
 ### LiDAR
 Podatki LiDAR se nanašajo na projekt zračnega laserskega skeniranja celotne Slovenije. Rezultati projekta so med drugim najbolj natančni podatki o reliefu za
 območje Slovenije.
-{% include stanje.html content="Leta 2015 zaključen projekt za celo SLO" %}
+{% include stanje.html content="Leta 2015 zaključen projekt za celotno državo" %}
 
 - Senčen prikaz Digitalnega modela reliefa [Vključitev podatkov LiDAR 1. del](https://site.geo-portal.si/2020-03-02-vkljucitev-lidar-1.html)
 - Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](https://site.geo-portal.si/2021-01-04-vkljucitev-lidar-2.html)

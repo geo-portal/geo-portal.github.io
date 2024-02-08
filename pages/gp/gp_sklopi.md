@@ -11,7 +11,7 @@ folder: gp
 Portal je vstopna točka v sistem in obiskovalcem ter uporabnikom glede na dodeljene pravice omogoča različne možnosti.
 
 ### OBISKOVALEC
-- dostop do [javnih storitev](https://site.geo-portal.si/tag_javna_storitev.html) brez registracije in prijave
+- dostop do [**javnih storitev**](https://site.geo-portal.si/tag_javna_storitev.html) brez registracije in prijave
 
 ### UPORABNIK
 - registracija in prijava
@@ -20,8 +20,6 @@ Portal je vstopna točka v sistem in obiskovalcem ter uporabnikom glede na dodel
 - nastavitev jezika uporabniškega vmesnika
 
 {% include note.html content="Registracija je na voljo samo za interne uporabnike posameznih naročnikov." %}
-
-{% include image.html file="uporabnik.png" alt="portal-uporabnik" caption="Primer pregleda projektov za uporabnika" %}
 
 ### ADMINISTRATOR
 Uporabnik, ki ima tudi vlogo Administratorja lahko ima še naslednje možnosti:
@@ -33,8 +31,6 @@ Uporabnik, ki ima tudi vlogo Administratorja lahko ima še naslednje možnosti:
 - pošiljanje el.pošte skupini uporabnikom
 
 Možnosti administratorjev se lahko prilagodijo naročnikovim zahtevam.
-
-{% include image.html file="administrator.png" alt="portal-administrator" caption="Primer urejanja projekta" %}
 
 ## 2. Spletni vmesnik
 
