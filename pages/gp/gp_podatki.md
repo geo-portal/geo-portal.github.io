@@ -11,7 +11,7 @@ folder: gp
 ### Poslovni register Slovenije
 Poslovni register Slovenije (PRS) je osrednja javna baza podatkov o vseh poslovnih subjektih v državi, ki opravljajo pridobitno 
 ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidence in storitve (AJPES).
-{% include stanje.html content="01.08.2023" %}
+{% include stanje.html content="15.04.2024" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Povezava na ePRS preko matične številke za več podatkov o subjektu
