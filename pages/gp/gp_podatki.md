@@ -68,7 +68,7 @@ Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah
 ### Register prostorskih enot in naslovov
 Register prostorskih enot (RPE) je evidenca o administrativno določenih prostorskih enotah (občine, naselja, upravne enote, ulice, šolski okoliši, krajevne skupnosti, poštni okoliši,...).
 Register naslovov je evidenca podatkov o naslovih.
-{% include stanje.html content="07.01.2024" %}
+{% include stanje.html content="21.04.2024" %}
 
 - [Splošna funkcionalnost za vektorske vsebine](sklopi.html#možnosti-vektorskih-slojev)
 - Iskanje po naslovu, naselju ali občini
