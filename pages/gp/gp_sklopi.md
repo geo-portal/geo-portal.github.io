@@ -49,7 +49,7 @@ Dostop do vsebin QGIS projekta preko spletnega brskalnika, brez nameščanja pos
 - prikaz koordinat v izbranem koordinatnem sistemu
 - dostop glede na dodeljene pravice
 
-### Možnosti vektorskih slojev
+#### Možnosti vektorskih slojev
 - prikaz elementov v prostoru glede na definirane stile
 - podpora več različnih stilov risanja za posamezni sloj
 - opisni podatki elementov na izbrani lokaciji z naprednimi možnostmi (prikaz šifrantov, povezava na druge evidence,...)
@@ -62,6 +62,9 @@ Dostop do vsebin QGIS projekta preko spletnega brskalnika, brez nameščanja pos
 {% include image.html file="lokacijska_poizvedba.png" alt="lokacijska-poizvedba" caption="Opisni podatki na lokaciji (prikaz šifrantov iz GJI, povezava na AJPESOV Poslovni register)" %}
 
 {% include image.html file="moznosti_sloja.png" alt="moznosti-sloja" caption="Možnosti vektorskega sloja in prikaz okna za izvoz podatkov" %}
+
+#### Možnosti podlag in dodatnih slojev
+- [nastavitev prosojnosti](https://site.geo-portal.si/2024-04-15-novost-nastavitev-prosojnosti.html)
 
 ### GIS urejevalnik
 Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje preko spletnega vmesnika tudi urejati:
@@ -100,8 +103,7 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 - Napredne možnosti za terensko delo:
     - Preračun elipsoidne višine na geoid
     - Shranjevanje dodatnih podatkov o lokaciji (natančnost,...)
-    - Možnost uporabe zunanjega GPS sprejemnika za zajem podatkov z visoko natančnostjo
-    - Nastavitev višine in podatkov o Anteni
+    - Možnost uporabe [zunanjega GNSS (GPS) sprejemnika za zajem podatkov z visoko natančnostjo (nastavitev višine antene)
     - Zakoličba točke ali linije (prikaz oddaljenosti od trenutne lokacija do izbrane točke oz. najbližje točke linije)
 - Integriran čitalec QR kod za prepoznavo in shranjevanje kode v atributne podatke
 - Zapisovanje podatkov (avtor, datum, zadnja sprememba,…)
@@ -109,6 +111,8 @@ Glede na pravice uporabnika in nastavitve projekta je možno vektorske sloje na 
 - Podpora relacijam (dodajanje elementa v relacijsko tabelo)
 - Pošiljanje e-pošte o opravljeni spremembi na podatkih
 - Spremembe so takoj vidne v sistemu
+
+{% include callout.html content="[Ponudba opreme za zajem podatkov na terenu](https://level2.si/resitve/gis-terenski-zajem-podatkov/)" type="primary" %}
 
 {% include image.html file="mobilni_vmesnik_540.png" alt="mobilni-vmesnik" max-width=350 caption="Mobilni vmesnik s prikazom lokacije" %}
 
@@ -124,7 +128,7 @@ Za primere, kjer na terenu ni mogoča stalna internetna povezava, si lahko upora
 - primerno za skupinsko delo na večjih projektih
 - enostavna za uporabo 
 - brez odvečnega kopiranja podatkov med računalnikom in mobilno napravo
-- podpora zunanjim GNSS sprejemnikom za večjo natančnost lokacije
+- podpora zunanjim GNSS (GPS) sprejemnikom za večjo natančnost lokacije
 - na voljo za Android in iOS operacijske sisteme
 
 ## 5. QGIS Namizna aplikacija
