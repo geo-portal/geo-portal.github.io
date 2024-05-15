@@ -13,13 +13,13 @@ Prednosti GEO-PORTALA se še posebej izkažejo na področjih, kjer se izvaja tud
 terenu vnaša nove elemente, spreminja podatke, dodaja fotografije,.. Vse to je takoj vidno v sistemu ostalim uporabnikom.
 
 {% include callout.html content="**Panoge primerne za uporabo GEO-PORTALA**:<br/>
-- [Komunalna infrastruktura](https://site.geo-portal.si/tag_komunala.html)<br/>
-- [Telekomunikacije](https://site.geo-portal.si/tag_telekomunikacije.html)<br/>
-- [Energetika](https://site.geo-portal.si/tag_energetika.html)<br/>
+- [Komunalna infrastruktura](https://site.geo-portal.si/tag_komunala)<br/>
+- [Telekomunikacije](https://site.geo-portal.si/tag_telekomunikacije)<br/>
+- [Energetika](https://site.geo-portal.si/tag_energetika)<br/>
 - [Javna razsvetljava](https://site.geo-portal.si/tag_javna_razsvetljava)<br/>
 - Pokopališka dejavnost<br/>
 - Prostorsko načrtovanje<br/>
-- Upravljanje nepremičnin<br/>
+- [Upravljanje nepremičnin](https://site.geo-portal.si/tag_nepremicnine)<br/>
 - Transport in logistika<br/>
 - Ekologija<br/>
 - Razvoj trgovske mreže<br/>

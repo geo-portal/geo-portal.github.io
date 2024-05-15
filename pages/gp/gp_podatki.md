@@ -63,7 +63,10 @@ Kataster nepremičnin je temeljna evidenca o položaju, obliki, fizičnih in dru
 Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah.
 {% include stanje.html content="21.04.2024" %}
 
-- Iskanje po katastrski občini in parcelni številki
+- Iskanje po katastrski občini in parcelni številki ali številki stavbe
+- Izpis lastništva parcele brez fizičnih oseb
+- Povezava na E-PROSTOR na javni vpogled in Pdf izpis
+- Sloj lastništva parcel brez fizičnih oseb
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
 ### Register prostorskih enot in naslovov
