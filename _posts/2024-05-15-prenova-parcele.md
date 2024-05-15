@@ -22,11 +22,11 @@ Poleg kat.občine, številke parcele in površine se sedaj izpišejo tudi nasled
   - "Skupni del stavbe v etažni lastnini" (parcele ležijo pod stavbo, lastništvo je vezano na lastnike delov stavb, 1% parcel)
     {% include callout.html content="Podatki o fizičnih osebah niso dostopni preko Katastra nepremičnin. Uradna javna evidenca o vseh lastnikih
 z vsemi pravicami na nepremičninah je Zemljiška knjiga." type="info" %}
-- <u>E-PROSTOR</u>: 
+- <u>ePROSTOR</u>: 
   - Povezava na **Javni vpogled** za prikaz vseh aktualnih in uradnih podatkov o parceli
   - Izpis **Pdf poročila** za pridobitev uradnega izpisa podatkov o parceli
 
-  {% include image.html file="posts/2024-05-15-01.png" alt="podatki o parceli" caption="Izpis podatkov o parceli in povezava na E-PROSTOR" %}
+  {% include image.html file="posts/2024-05-15-01a.png" alt="podatki o parceli" caption="Izpis podatkov o parceli in povezava na ePROSTOR" %}
 
 ### 2. Sloj lastništva parcel
 

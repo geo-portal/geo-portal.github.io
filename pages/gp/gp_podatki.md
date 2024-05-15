@@ -65,7 +65,7 @@ Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah
 
 - Iskanje po katastrski občini in parcelni številki ali številki stavbe
 - [Izpis lastništva parcele brez fizičnih oseb](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#1-izpis-podatkov)
-- [Povezava na E-PROSTOR na javni vpogled in Pdf izpis](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#1-izpis-podatkov)
+- [Povezava na ePROSTOR na javni vpogled in Pdf izpis](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#1-izpis-podatkov)
 - [Sloj lastništva parcel brez fizičnih oseb](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#2-sloj-lastni%C5%A1tva-parcel)
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
