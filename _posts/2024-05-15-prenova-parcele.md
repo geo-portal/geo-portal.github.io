@@ -38,7 +38,7 @@ Dodatno je na voljo ločen sloj, kjer so lastniki parcel (brez fizičnih oseb) r
 - Verska skupnost
 - Nekategorizirano
 
-  {% include callout.html content="Vse ostale parcele, kjer podatkov tega sloja ni, pa so v lasti fizičnih oseb!" type="info" %}
+  {% include callout.html content="Vse ostale parcele, kjer podatkov tega sloja ni, pa so v celotni ali delni lasti fizičnih oseb!" type="info" %}
 
   {% include image.html file="posts/2024-05-15-03.png" alt="legenda lastništvo" caption="Legenda sloja lastništva parcel" %}
   
