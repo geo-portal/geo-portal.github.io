@@ -36,9 +36,9 @@ Dodatno je na voljo ločen sloj, kjer so lastniki parcel (brez fizičnih oseb) r
 - Država
 - Javno dobro ali družbena lastnina
 - Verska skupnost
-- Nekategorizirano
+- Nekategorizirano (vsebuje tudi skupne dele stavb)
 
-  {% include callout.html content="Vse ostale parcele, kjer podatkov tega sloja ni, pa so v celotni ali delni lasti fizičnih oseb!" type="info" %}
+  {% include callout.html content="Vse ostale parcele, kjer podatkov tega sloja ni, pa so v lasti fizičnih oseb ali pa gre za mešano lastništov!" type="info" %}
 
   {% include image.html file="posts/2024-05-15-03.png" alt="legenda lastništvo" caption="Legenda sloja lastništva parcel" %}
   
