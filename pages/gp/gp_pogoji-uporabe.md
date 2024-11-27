@@ -4,7 +4,7 @@ keywords:
 sidebar:
 permalink: pogoji-uporabe.html
 folder:
-last_updated: 30.11.2022
+last_updated: 27.11.2024
 ---
 Pogoji uporabe se nanašajo in uporabljajo za obiskovalce in uporabnike vseh storitev GEO-PORTAL-a.
 
