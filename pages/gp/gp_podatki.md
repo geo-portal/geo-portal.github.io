@@ -11,7 +11,7 @@ folder: gp
 ### Poslovni register Slovenije
 Poslovni register Slovenije (PRS) je osrednja javna baza podatkov o vseh poslovnih subjektih v državi, ki opravljajo pridobitno 
 ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidence in storitve (AJPES).
-{% include stanje.html content="15.04.2024" %}
+{% include stanje.html content="01.01.2025" %}
 
 - Povezava na ePRS preko matične številke za več podatkov o subjektu
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
@@ -21,7 +21,7 @@ ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidenc
 ### Vodna knjiga
 Vodna knjiga je javna evidenca, ki vsebuje podatke o: podeljenih vodnih pravicah (vodna dovoljenja in koncesije), posebni 
 rabi vode in izdanih vodnih soglasjih.
-{% include stanje.html content="05.06.2023" %}
+{% include stanje.html content="16.07.2024" %}
 
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
@@ -61,7 +61,7 @@ Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za 
 ### Kataster nepremičnin (Parcele, Stavbe)
 Kataster nepremičnin je temeljna evidenca o položaju, obliki, fizičnih in drugih lastnostih parcel, stavb in delov stavb. 
 Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah.
-{% include stanje.html content="21.04.2024" %}
+{% include stanje.html content="29.12.2024" %}
 
 - Iskanje po katastrski občini in parcelni številki ali številki stavbe
 - [Izpis lastništva parcele brez fizičnih oseb](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#1-izpis-podatkov)
@@ -72,7 +72,7 @@ Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah
 ### Register prostorskih enot in naslovov
 Register prostorskih enot (RPE) je evidenca o administrativno določenih prostorskih enotah (občine, naselja, upravne enote, ulice, šolski okoliši, krajevne skupnosti, poštni okoliši,...).
 Register naslovov je evidenca podatkov o naslovih.
-{% include stanje.html content="07.01.2024" %}
+{% include stanje.html content="29.12.2024" %}
 
 - Iskanje po naslovu, naselju ali občini
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
