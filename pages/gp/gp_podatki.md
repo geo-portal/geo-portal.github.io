@@ -27,16 +27,16 @@ rabi vode in izdanih vodnih soglasjih.
 
 ## Geodetska uprava RS
 
-### Digitalni ortofoto načrti (DOF025)
-Digitalni ortofoto načrti so izdelani na podlagi snemanja iz zraka in z upoštevanjem podatkov o reliefu in absolutne orientacije aerofotografij pretvorjeni v pravokotno(ortogonalno) projekcijo. 
+### Ortofoto
+Ortofoto posnetki so izdelani na podlagi snemanja množice fotografij iz zraka in z upoštevanjem podatkov o reliefu in absolutne orientacije aerofotografij pretvorjeni v pravokotno(ortogonalno) projekcijo. 
 V metričnem smislu so enaki načrtu ali karti. 
-{% include stanje.html content="Leto snemanja 2021 - 2023" %}
-{% include image.html file="dof_stanje_2023_102dpi.png" alt="stanje-dof" caption="" %}
+{% include stanje.html content="Leto snemanja 2022 - 2024" %}
+{% include image.html file="dof_stanje_2024_102dpi.png" alt="stanje-dof" caption="" %}
 
-- Vključeni so najnovejši Digitalni ortofoto načrti v originalni resoluciji DOF025 (1px = 25cm)
+- Vključeni so najnovejši Ortofoto posnetki v originalni resoluciji 1px = 25cm, z oznako DOF025
+- Možnost prikaza arhivskih črnobelih Ortofoto posnetkov iz obdobja 1997-2001 in barvnih posnetkov iz leta 2006 z resolucijo 1px = 50cm (DOF5 oz. DOF050)
 - [Možnosti podlag in dodatnih slojev](sklopi.html#možnosti-podlag-in-dodatnih-slojev)
-- Možnost [prikaza točnega datuma snemanja posameznega lista](https://site.geo-portal.si/2020-02-27-nasvet-datum-snemanja-dof.html)
-- Možnost prikaza starejših arhivskih ortofoto načrtov
+- Možnost [prikaza datuma snemanja posameznega lista](https://site.geo-portal.si/2020-02-27-nasvet-datum-snemanja-dof.html)
 
 ### Gospodarska javna infrastruktura (GJI)
 Gospodarska javna infrastruktura (GJI) so objekti in omrežja neposredno namenjeni izvajanju nalog javnih služb državnega 
