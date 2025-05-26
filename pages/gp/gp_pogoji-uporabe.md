@@ -4,7 +4,7 @@ keywords:
 sidebar:
 permalink: pogoji-uporabe.html
 folder:
-last_updated: 30.11.2022
+last_updated: 27.11.2024
 ---
 Pogoji uporabe se nanašajo in uporabljajo za obiskovalce in uporabnike vseh storitev GEO-PORTAL-a.
 
@@ -12,7 +12,7 @@ Pogoji uporabe se nanašajo in uporabljajo za obiskovalce in uporabnike vseh sto
 
 **Sistem** se nanaša na geografski informacijski sistem GEO-PORTAL.
 
-**Ponudnik** sistema je podjetje Level2, Uroš Preložnik s.p., Podgora 5C, 3327 Šmartno ob Paki.
+**Ponudnik** sistema je podjetje Level2, Uroš Preložnik s.p., Dečkova cesta 48, 3000 Celje.
 
 **Storitve** se nanašajo na storitve sistema in vključujejo:
 - Osnovno storitev
@@ -48,6 +48,7 @@ Registracija je na voljo samo osebam naročnika in pomeni izpolnitev registracij
 (*) obvezna polja na registracijskem obrazcu
 
 Za uspešno registracijo mora uporabnik potrditi aktivacijo, ki jo prejme po e-pošti. Administrator mu nato dodeli pravice za dostop do naročenih storitev.
+Uporabnik lahko svoje vstopne podatke uporablja samo za lastne prijave v sistem in jih ne sme posredovati drugim osebam.
 
 ## Preklic registracije
 

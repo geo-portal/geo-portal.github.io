@@ -10,6 +10,4 @@ GEO-PORTAL razvijamo, vzdržujemo in tržimo v podjetju <a href="https://level2.
 
 Podpora uporabnikom in izobraževanja so na voljo naročnikom skladno z dogovorom.
 
-Kontakt: 
-
-Uroš Preložnik, 051 444 080, {% include inline_image.html file="email.png" alt="email" %}
+<a href="https://level2.si/contact/?podrocje=geo-portal" target="_blank">**Kontaktni obrazec**</a>
