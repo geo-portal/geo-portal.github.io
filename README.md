@@ -14,6 +14,8 @@ Local setup for testing and generating PDF (do not commit changes in Gemfile and
 
     `jekyll serve`
     
+   Če ne dela zaradi dependency errorjev, lahko daš bundle exec jekyll serve
+
 4. Prepare for PDF
 
     `bash pdf-predstavitev.sh`
