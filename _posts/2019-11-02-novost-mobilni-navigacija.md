@@ -1,7 +1,8 @@
 ---
-title:  "Mobilni vmesnik - povezava z Google Maps navigacijo"
+title:  "Mobilni vmesnik - povezava na Google Maps navigacijo"
 permalink: 2019-11-02-novost-mobilni-navigacija.html
-tags: [novice,mobilni_vmesnik]
+tags: [novice,nasveti,mobilni_vmesnik]
+summary: Povezava na Google Maps navigacijo za izbrano lokacijo na karti.
 ---
 
 V mobilni vmesnik smo dodali gumb, ki za izbrano lokacijo na karti odpre aplikacijo Google Maps v načinu navodil za pot,

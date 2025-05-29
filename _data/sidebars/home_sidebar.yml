@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: Pregled
+  - title: GEO-PORTAL
     output: web
     folderitems:
 
@@ -20,6 +20,10 @@ entries:
 
         - title: Pregled
           url: /news.html
+          output: web
+
+        - title: Nasveti
+          url: /tag_nasveti.html
           output: web
 
         - title: Arhiv

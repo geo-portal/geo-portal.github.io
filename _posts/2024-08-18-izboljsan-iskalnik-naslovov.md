@@ -2,6 +2,7 @@
 title:  "Izboljšan iskalnik naslovov"
 permalink: 2024-08-18-izboljsan-iskalnik-naslovov.html
 tags: [novice, nasveti, spletni_vmesnik]
+summary: "Iskalnik naslovov sedaj omogoča bolj natančno iskanje in filtriranje naslovov. Prikazano na konkretnem primeru."
 ---
 
 Iskalnik po naslovih sedaj prikaže bolj primerne rezultate in omogoča še vpis naselja za točno fitriranje naslovov z enako ulico

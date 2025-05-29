@@ -1,10 +1,20 @@
+topnav_dropdowns:
+  - title: xx
+    folders:
+      - title: Novice
+        folderitems:
+          - title: Pregled
+            url: /news.html
+          - title: Nasveti
+            url: /tag_nasveti.html
+
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 topnav:
 - title: Topnav
   items:
-    - title: Novice
-      url: /news
+    - title: Javne storitve
+      url: /tag_javna_storitev.html
     - title: GEO-PORTAL Vstop
       external_url: https://geo-portal.si
 

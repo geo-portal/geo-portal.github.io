@@ -1,11 +1,11 @@
 ---
-title: "Javna storitev"
+title: "Javne storitve"
 tagName: javna_storitev
 search: exclude
 permalink: tag_javna_storitev.html
 sidebar: home_sidebar
 folder: tags
 ---
-{% include taglogic.html %}
+{% include javna_storitev.html %}
 
 {% include links.html %}

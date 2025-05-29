@@ -2,6 +2,7 @@
 title:  "NASVET: Bližnjica do GEO-PORTAL-a na telefonu"
 permalink: 2019-11-22-nasvet-bliznjica-zacetni-zaslon.html
 tags: [nasveti,mobilni_vmesnik]
+summary: "Kako si na telefonu ali tablici pripravimo bližnjico do GEO-PORTAL-a?"
 ---
 
 Za lažji in hitrejši dostop do GEO-PORTAL-a na terenu, si lahko pripravimo bližnjico na začetni zaslon telefona

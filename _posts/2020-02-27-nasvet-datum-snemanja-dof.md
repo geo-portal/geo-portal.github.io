@@ -2,6 +2,7 @@
 title:  "NASVET: Datum snemanja ortofota"
 permalink: 2020-02-27-nasvet-datum-snemanja-dof.html
 tags: [nasveti]
+summary: "Kako najti datum aerosnemanja ortofoto načrta?"
 ---
 
 {% include posodobitev.html content="21.1.25" %}
