@@ -17,7 +17,7 @@ terenu vnaša nove elemente, spreminja podatke, dodaja fotografije,.. Vse to je 
 - [Telekomunikacije](https://site.geo-portal.si/tag_telekomunikacije)<br/>
 - [Energetika](https://site.geo-portal.si/tag_energetika)<br/>
 - [Javna razsvetljava](https://site.geo-portal.si/tag_javna_razsvetljava)<br/>
-- Pokopališka dejavnost<br/>
+- [Pokopališka dejavnost](https://site.geo-portal.si/tag_pokopaliska_dejavnost)<br/>
 - Prostorsko načrtovanje<br/>
 - [Upravljanje nepremičnin](https://site.geo-portal.si/tag_nepremicnine)<br/>
 - Transport in logistika<br/>
