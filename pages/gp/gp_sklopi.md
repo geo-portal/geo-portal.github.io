@@ -54,7 +54,7 @@ Dostop do vsebin QGIS projekta preko spletnega brskalnika, brez nameščanja pos
 - podpora več različnih stilov risanja za posamezni sloj
 - opisni podatki elementov na izbrani lokaciji z naprednimi možnostmi (prikaz šifrantov, povezava na druge evidence,...)
 - opisni podatki elementov sloja v območju prikaza (tabela)
-- izvoz podatkov (SHP, DXF, CSV,…) in opcijska transformacija v druge koordinatne sisteme
+- [izvoz podatkov](https://site.geo-portal.si/2025-07-31-nasvet-izvoz-podatkov.html) (SHP, DXF, CSV,…) in opcijska transformacija v druge koordinatne sisteme
 - opcijska priprava iskalnika elementov sloja
 - opcijska priprava relacij (prikaz elementov iz relacijske tabele)
 - opcijska uporaba urejevalnika
