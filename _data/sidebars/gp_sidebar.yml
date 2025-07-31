@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: GEO-PORTAL
+  #product: GEO-PORTAL
   #version: 1.0
   folders:
 
@@ -47,3 +47,27 @@ entries:
     - title: Podpora
       url: /podpora.html
       output: web, pdf
+
+  - title: Spletni vmesnik
+    output: web, pdf
+    folderitems:
+
+      - title: Delo s sloji
+        url: /delo_s_sloji.html
+        output: web, pdf
+
+  - title: Novice
+    output: web
+    folderitems:
+
+      - title: Pregled
+        url: /news.html
+        output: web
+
+      - title: Nasveti
+        url: /tag_nasveti.html
+        output: web
+
+      - title: Arhiv
+        url: /news_archive.html
+        output: web

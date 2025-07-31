@@ -23,7 +23,7 @@ summary: GEO-PORTAL je zmogljiv spletni in mobilni geografski informacijski sist
 
 ## QGIS
 
-GEO-PORTAL je sestavljen iz širokega nabora aplikacij in rešitev, od katerih večina sloni na odprtokodni tehnologiji.
+GEO-PORTAL je sestavljen iz širokega nabora aplikacij in rešitev, od katerih mnoge slonijo na odprtokodni tehnologiji.
 
 Osnova je okolje <a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.qgis}}">**QGIS**</a>, ki zajema:
 - namizno aplikacijo, ki služi za pripravo projektov in prostorskih podatkov ter različne napredne analize,
@@ -38,8 +38,9 @@ Uradna stran [QGIS projekta](https://qgis.org/en/site/).
 - dostop samo za pooblaščene osebe
 - večuporabniški sistem z različnimi nivoji uporabnikov in njihovih pravic v sistemu
 - beleženje zadnjih dostopov uporabnikov, beleženje kdo in kdaj je izvedel kreiranje oz. zadnjo spremembo na posameznem prostorskem elementu
-- celoten sistem deluje preko varne internetne povezave (<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.tls}}">**TLS**</a>)
+- delovanje preko varne internetne povezave (<a href="#" data-toggle="tooltip" data-original-title="{{site.data.glossary.tls}}">**TLS**</a>)
 - redne varnostne kopije podatkov
+- celoten sistem in vsi podatki se nahajajo v [podatkovnem centru](https://site.geo-portal.si/2022-03-28-podatkovni-center.html) v Sloveniji
 - spremljanje delovanja ("monitoring")
 
 ## Dostop

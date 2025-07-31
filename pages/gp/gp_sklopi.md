@@ -37,7 +37,7 @@ Možnosti administratorjev se lahko prilagodijo naročnikovim zahtevam.
 Dostop do vsebin QGIS projekta preko spletnega brskalnika, brez nameščanja posebnih dodatkov.
 
 ### GIS pregledovalnik
-- splošna navigacija v prostoru in izbira različnih vsebin
+- [splošna navigacija v prostoru](https://site.geo-portal.si/2020-12-21-nasvet-premikanje-po-karti.html) in izbira različnih vsebin
 - poizvedovanja na lokaciji, prikaz trenutne lokacije
 - integriran prikaz elementov na karti in tabele opisnih podatkov
 - iskalniki
@@ -91,7 +91,7 @@ Spletni vmesnik prilagojen za manjše naprave z zasloni na dotik za delo na tere
 - možnost sledenja karte trenutnemu položaju uporabnika
 - poizvedovanja na lokaciji, prikaz trenutne lokacije z informacijo o natančnosti, višini,…
 - iskalniki
-- merjenje
+- [merjenje razdalj in površin](https://site.geo-portal.si/2022-11-10-novost-mobilni-merjenje.html)
 - prikaz zunanjih slojev (podlage, ortofoto načrti, drugi WMS strežniki,…)
 - prilagodljivost (območje, vsebine, jezik, vmesnik,...)
 - dostop glede na dodeljene pravice
