@@ -49,12 +49,12 @@ entries:
       output: web, pdf
 
   - title: Spletni vmesnik
-    output: web, pdf
+    output: web
     folderitems:
 
       - title: Delo s sloji
         url: /delo_s_sloji.html
-        output: web, pdf
+        output: web
 
   - title: Novice
     output: web

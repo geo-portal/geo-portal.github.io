@@ -55,7 +55,7 @@ Javna registracija uporabnikov trenutno ni na voljo, v primeru da se zanimate za
 
 1. Za vsakega naročnika se pripravi ločena baza podatkov in eden ali več QGIS projektov.
 1. Administrator v portalu nastavi parametre projekta in ga naloži na strežnik.
-1. Administrator pošlje potencialnim uporabnikom el.pošto z navodili za registracijo. Po registraciji so uporabniki povezani s konkretnim naročnikom in vidni administratorju v sistemu. 
+1. Administrator pošlje potencialnim uporabnikom el. pošto z navodili za registracijo. Po registraciji so uporabniki povezani s konkretnim naročnikom in vidni administratorju v sistemu. 
 1. Administrator določi uporabnikom ustrezne pravice (pregled ali urejanje) za dostop do projektov (uporabniki so o tem obveščeni).
 1. Uporabniku se po uspešni prijavi in izbiri projekta naloži spletni ali mobilni vmesnik, glede na velikost in tip naprave (monitor, telefon, tablica).
 1. Preko vmesnika uporabnik izvaja operacije in pridobiva slike in druge podatke s pomočjo spletnega strežnika in QGIS strežnika za kartografske podatke.
