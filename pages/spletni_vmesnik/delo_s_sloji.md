@@ -41,7 +41,7 @@ Na karti prikaže celotno območje (vse elemente) sloja. Na voljo za vse sloje r
 Odpre podatkovno tabelo z opisnimi podatki elementov sloja. Omogoča prikaz opisnih podatkov elementov, ki so v območju trenutnega prikaza
 in različne možnosti filtriranja tabele ter karte po posameznih poljih. Na voljo za vektorske sloje in tabele.
 
-{% include image.html file="delo_s_sloji_opisni_podatki.png" alt="opisni podatki" caption="Opisni podatki sloja" %}
+{% include image.html file="delo_s_sloji_opisni_podatki.png" alt="opisni podatki" caption="Opisni podatki vektorskega sloja" %}
 
 ### 3. Stil
 
