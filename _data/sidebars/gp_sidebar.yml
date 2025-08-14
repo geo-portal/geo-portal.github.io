@@ -52,8 +52,12 @@ entries:
     output: web
     folderitems:
 
+      - title: Začetek
+        url: /sv_zacetek.html
+        output: web
+
       - title: Delo s sloji
-        url: /delo_s_sloji.html
+        url: /sv_delo_s_sloji.html
         output: web
 
   - title: Novice

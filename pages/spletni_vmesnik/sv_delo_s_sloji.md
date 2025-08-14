@@ -2,7 +2,7 @@
 title: Delo s sloji
 keywords: izvoz sloja, ESRI Shapefile, Autocad DXF, MS Office Open XLSX, Text CSV, Text TSV, Keyhole Markup Language KML, GeoJSON, opisni podatki, kontekstni meni, vektorski sloj, tabela, rastrski sloj, skupina slojev
 sidebar: gp_sidebar
-permalink: delo_s_sloji.html
+permalink: sv_delo_s_sloji.html
 folder: spletni_vmesnik
 ---
 

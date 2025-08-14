@@ -17,4 +17,4 @@ Spletni vmesnik ponuja možnost izvoza podatkov za izbran vektorski sloj ali tab
 
 ### 3. Izberemo format in območje izvoza
 
-Podrobnosti so opisane v poglavju [Delo s sloji](delo_s_sloji.html#4-izvoz-sloja).
+Podrobnosti so opisane v poglavju [Delo s sloji](sv_delo_s_sloji.html#4-izvoz-sloja).
