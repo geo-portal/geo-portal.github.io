@@ -3,6 +3,7 @@ title:  "Prenova spletnega vmesnika"
 permalink: 2025-08-16-prenova-spletnega-vmesnika.html
 tags: [novice, spletni_vmesnik]
 summary: "Z namenom večje preglednosti in boljše uporabniške izkušnje smo prenovili ter izboljšali spletni vmesnik."
+last_updated: 2025-08-19
 ---
 
 Z namenom večje preglednosti in boljše uporabniške izkušnje smo prenovili ter izboljšali spletni vmesnik.
@@ -26,6 +27,15 @@ Z namenom večje preglednosti in boljše uporabniške izkušnje smo prenovili te
 - Izboljšano delo s filtriranjem podatkov v tabeli (sedaj je možno filtrirati tudi več različnih slojev hkrati).
 
   {% include image.html file="posts/2025-08-14-03.png" alt="opisna tabela" caption="Primer pogojnega označevanja vrstic: Okvare s statusom Intervencija so drugače obarvane" %}
+
+### Povezava na trenutno karto
+
+Orodje {% include inline_image.html file="webclient/mActionPermalink.svg" %} za povezavo na trenutno karto oz. pogled:
+
+- Preurejeno okno in način kopiranja ter skrajšan spletni naslov za deljenje povezave
+- Bolj natančno upoštevanje začetnega pogleda karte
+- Povezava vsebuje izbrane stile posameznih slojev
+- Povezava vsebuje izbrano podlago
   
 ### Splošne izboljšave
 
