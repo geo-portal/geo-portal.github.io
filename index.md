@@ -1,6 +1,6 @@
 ---
 title: "Uvod"
-keywords: geoportal, gis, qgis, qgiscloud, prostorski informacijski sistem, geografski informacijski sistem, qgis web client, gis rešitev, mobilni gis, spletni gis
+keywords: geoportal, gis, qgis, qgiscloud, prostorski informacijski sistem, geografski informacijski sistem, qgis web client, gis rešitev, mobilni gis, spletni gis, gis portal, gisportal, mergin maps, merginmaps, mergin
 sidebar: gp_sidebar
 permalink: index.html
 summary: GEO-PORTAL je zmogljiv spletni in mobilni geografski informacijski sistem (GIS), namenjen podjetjem, javnim ustanovam in drugim organizacijam, za delo s prostorskimi podatki v pisarni in na terenu. Deluje v okolju QGIS kar zagotavlja mnoge prednosti tega sistema.
