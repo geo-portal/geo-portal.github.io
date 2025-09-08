@@ -61,7 +61,7 @@ Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za 
 ### Kataster nepremičnin (Parcele, Stavbe)
 Kataster nepremičnin je temeljna evidenca o položaju, obliki, fizičnih in drugih lastnostih parcel, stavb in delov stavb. 
 Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah.
-{% include stanje.html content="29.12.2024" %}
+{% include stanje.html content="31.8.2025" %}
 
 - Iskanje po katastrski občini in parcelni številki ali številki stavbe
 - [Izpis lastništva parcele brez fizičnih oseb](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#1-izpis-podatkov)
@@ -72,7 +72,7 @@ Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah
 ### Register prostorskih enot in naslovov
 Register prostorskih enot (RPE) je evidenca o administrativno določenih prostorskih enotah (občine, naselja, upravne enote, ulice, šolski okoliši, krajevne skupnosti, poštni okoliši,...).
 Register naslovov je evidenca podatkov o naslovih.
-{% include stanje.html content="29.12.2024" %}
+{% include stanje.html content="31.8.2025" %}
 
 - Iskanje po naslovu, naselju ali občini
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
