@@ -19,7 +19,7 @@ summary: GEO-PORTAL je zmogljiv spletni in mobilni geografski informacijski sist
 - dodajanje vsebin drugih ponudnikov preko spletnih kartografskih standardov (WMS,WMTS)
 - možnost nadgradnje in prilagajanja specifičnim funkcionalnim in vsebinskim zahtevam
 
-{% include image.html file="spletni_vmesnik_900.png" alt="spletni vmesnik" caption="Primer spletnega vmesnika z uporabo Google StreetView" %}
+{% include image.html file="spletni_vmesnik_2025_900.png" alt="spletni vmesnik" caption="Primer prenovljenega spletnega vmesnika (2025) z uporabo Google StreetView" %}
 
 ## QGIS
 
