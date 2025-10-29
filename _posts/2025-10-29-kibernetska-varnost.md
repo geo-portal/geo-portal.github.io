@@ -5,6 +5,7 @@ tags: [novice]
 ---
 
 Zavedamo se pomena kibernetske varnosti zato smo naročili zunanji varnostni pregled GEO-PORTAL-a in ostalih naših spletnih storitev.
+Takšen pregled pomaga odkriti morebitne ranljivosti, še preden bi jih lahko kdo zlorabil, in s tem povečuje varnost sistemov in podatkov.
 Na podlagi rezultatov smo izvedli različne popravke in dodatne izboljšave, ki še naprej zagotavljajo visoko raven zaščite podatkov in zanesljivo delovanje naših storitev.
 
 [Več informacij](https://level2.si/2025/10/kibernetska-varnost/) 
