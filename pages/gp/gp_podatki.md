@@ -7,31 +7,43 @@ folder: gp
 ---
 
 ## AJPES
+Agencija RS za javnopravne evidence in storitve
 
 ### Poslovni register Slovenije
 Poslovni register Slovenije (PRS) je osrednja javna baza podatkov o vseh poslovnih subjektih v državi, ki opravljajo pridobitno 
-ali nepridobitno dejavnost. Podatke vzdržuje Agencija RS za javnopravne evidence in storitve (AJPES).
-{% include stanje.html content="01.01.2025" %}
+ali nepridobitno dejavnost.
+{% include stanje.html content="01.01.2026" %}
 
 - Povezava na ePRS preko matične številke za več podatkov o subjektu
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
-## Direkcija RS za vode
+## DRSV
+Direkcija RS za vode
+
+### Opozorilna karta poplav (NOVO)
+Opozorilna karta poplav je rezultat ocene poplavne nevarnosti in služi kot podlaga za izdelavo podrobnih poplavnih območij in njihovega razvrščanja.
+Vsebuje:
+- območja zelo redkih poplav, ki vključujejo poplave s povratno dobo 50 ali več let,
+- območja redkih poplav, ki vključujejo poplave s povratno dobo od 10 do 20 let,
+- območja pogostih poplav, ki  vključujejo poplave s povratno dobo od 2 do 5 let.
+- poplavne dogodke
+{% include stanje.html content="21.9.2025" %}
 
 ### Vodna knjiga
 Vodna knjiga je javna evidenca, ki vsebuje podatke o: podeljenih vodnih pravicah (vodna dovoljenja in koncesije), posebni 
 rabi vode in izdanih vodnih soglasjih.
-{% include stanje.html content="16.07.2024" %}
+{% include stanje.html content="6.11.2025" %}
 
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
-## Geodetska uprava RS
+## GURS 
+Geodetska uprava RS
 
 ### Ortofoto
 Ortofoto posnetki so izdelani na podlagi snemanja množice fotografij iz zraka in z upoštevanjem podatkov o reliefu in absolutne orientacije aerofotografij pretvorjeni v pravokotno(ortogonalno) projekcijo. 
 V metričnem smislu so enaki načrtu ali karti. 
-{% include stanje.html content="Leto snemanja 2022 - 2024" %}
-{% include image.html file="dof_stanje_2024_102dpi.png" alt="stanje-dof" caption="" %}
+{% include stanje.html content="Leto snemanja 2023 - 2025" %}
+{% include image.html file="dof_stanje_2025_102dpi.png" alt="stanje-dof" caption="" %}
 
 - Vključeni so najnovejši Ortofoto posnetki v originalni resoluciji 1px = 25cm, z oznako DOF025
 - Možnost prikaza arhivskih črnobelih Ortofoto posnetkov iz obdobja 1997-2001 in barvnih posnetkov iz leta 2006 z resolucijo 1px = 50cm (DOF5 oz. DOF050)
@@ -61,7 +73,7 @@ Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za 
 ### Kataster nepremičnin (Parcele, Stavbe)
 Kataster nepremičnin je temeljna evidenca o položaju, obliki, fizičnih in drugih lastnostih parcel, stavb in delov stavb. 
 Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah.
-{% include stanje.html content="31.8.2025" %}
+{% include stanje.html content="4.1.2026" %}
 
 - Iskanje po katastrski občini in parcelni številki ali številki stavbe
 - [Izpis lastništva parcele brez fizičnih oseb](https://site.geo-portal.si/2024-05-15-prenova-parcele.html#1-izpis-podatkov)
@@ -72,12 +84,13 @@ Predstavlja podlago za zemljiškoknjižni vpis stvarnih pravic na nepremičninah
 ### Register prostorskih enot in naslovov
 Register prostorskih enot (RPE) je evidenca o administrativno določenih prostorskih enotah (občine, naselja, upravne enote, ulice, šolski okoliši, krajevne skupnosti, poštni okoliši,...).
 Register naslovov je evidenca podatkov o naslovih.
-{% include stanje.html content="31.8.2025" %}
+{% include stanje.html content="4.1.2026" %}
 
 - Iskanje po naslovu, naselju ali občini
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
-## Ministrstvo za okolje in prostor
+## MNVP
+Ministrstvo za naravne vire in prostor
 
 ### Aglomeracije pri oskrbi s pitno vodo
 Aglomeracije so območja poselitve določena v operativnem programu oskrbe s pitno vodo.
