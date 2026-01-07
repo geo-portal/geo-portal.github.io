@@ -23,7 +23,7 @@ Agencija RS za okolje
 ### Karta potresne nevarnosti (NOVO)
 Osnovni parameter potresne nevarnosti je projektni pospešek tal za povratno dobo 475 in trdna tla.
 Priporočena doba 475 let ustreza 90 odstotkov verjetnosti, da vrednosti na karti ne bodo presežene v 50 letih, kar je predvidena življenjska doba navadnih objektov
-{% include stanje.html content="Aktualno stanje karte 2021" %}
+{% include stanje.html content="Veljavno stanje karte 2021" %}
 
 ### Katalog potresov (NOVO)
 Lokacije potresov v Sloveniji in bližnji okolici. Od leta 1991 so na voljo bolj podrobni in natančni podatki, pred tem pa so vključeni vsi večji znani potresi pri nas.
