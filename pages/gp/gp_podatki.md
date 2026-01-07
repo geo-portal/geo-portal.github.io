@@ -17,6 +17,18 @@ ali nepridobitno dejavnost.
 - Povezava na ePRS preko matične številke za več podatkov o subjektu
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
+## ARSO
+Agencija RS za okolje
+
+### Karta potresne nevarnosti (NOVO)
+Osnovni parameter potresne nevarnosti je projektni pospešek tal za povratno dobo 475 in trdna tla.
+Priporočena doba 475 let ustreza 90 odstotkov verjetnosti, da vrednosti na karti ne bodo presežene v 50 letih, kar je predvidena življenjska doba navadnih objektov
+{% include stanje.html content="Aktualno stanje karte 2021" %}
+
+### Katalog potresov (NOVO)
+Lokacije potresov v Sloveniji in bližnji okolici. Od leta 1991 so na voljo bolj podrobni in natančni podatki, pred tem pa so vključeni vsi večji znani potresi pri nas.
+{% include stanje.html content="15.5.2025" %}
+
 ## DRSV
 Direkcija RS za vode
 
@@ -35,6 +47,16 @@ rabi vode in izdanih vodnih soglasjih.
 {% include stanje.html content="6.11.2025" %}
 
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
+
+## GeoZS
+Geološki zavod Slovenije
+
+### Opozorilna karta plazov (NOVO)
+Opozorilna karta v merilu 1:25.000 prikazuje prikaz verjetnosti pojavljanja zemeljskih plazov, skalnih podorov in drobirskih tokov.
+{% include stanje.html content="2024" %}
+
+Terensko preverjeni zemeljski in hribinski plazovi.
+{% include stanje.html content="11.12.2024" %}
 
 ## GURS 
 Geodetska uprava RS
@@ -107,11 +129,11 @@ območje Slovenije.
 - Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](https://site.geo-portal.si/2021-01-04-vkljucitev-lidar-2.html)
 - [Možnosti podlag in dodatnih slojev](sklopi.html#možnosti-podlag-in-dodatnih-slojev)
 
+## Vključitev in posodabljanje
+Podatki se vključijo v posamezne projekte in posodabljajo glede na dogovor z naročnikom.
+
 ## Drugo
 Ostale vsebine se dodajajo glede na posamezne potrebe naročnika.
 
 ## Podatki naročnika
 Podatki naročnika se pripravijo in integrirajo v sistem glede na želje naročnika.
-
-## Posodabljanje
-Podatki se posodabljajo glede na dogovor z naročnikom.
