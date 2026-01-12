@@ -32,6 +32,10 @@ Lokacije potresov v Sloveniji in bližnji okolici. Od leta 1991 so na voljo bolj
 ## DRSV
 Direkcija RS za vode
 
+### Hidrografija (NOVO)
+Vsebuje površinske vode zajete kot linije (vodotoki, kanali,...) in kot ploskve (jezera, zbiralniki,...).
+{% include stanje.html content="15.9.2025" %}
+
 ### Opozorilna karta poplav (NOVO)
 Opozorilna karta poplav je rezultat ocene poplavne nevarnosti in služi kot podlaga za izdelavo podrobnih poplavnih območij in njihovega razvrščanja.
 Vsebuje:
@@ -50,6 +54,14 @@ rabi vode in izdanih vodnih soglasjih.
 
 ## GeoZS
 Geološki zavod Slovenije
+
+### Aktivni geološki prelomi (NOVO)
+Vključuje vse znane aktivne, verjetno aktivne in potencialno aktivne prelome s trasami dolžine >5 km. Prelomi so klasificirani kot aktivni, če obstajajo neposredni dokazi za aktivnost v kvartarju (2.6 Ma), verjetno aktivni, če obstajajo posredni dokazi za aktivnost v kvartarju (prisotnost kvartarnih sedimentacijskih bazenov v strukturni povezavi s prelomom, premiki zaznani v drenažnem sistemu, spremembe v obnašanju vodotokov, kot je npr. prehod iz vrezovanja v odlaganje), in potencialno aktivni, če so strukturno povezani z znanim aktivnim prelomom ali pa je njihova aktivnost možna glede na trenutno napetostno polje in geometrijo teh prelomov.
+{% include stanje.html content="15.12.2020" %}
+
+### Geološkja karta Slovenije 1:250.000 (NOVO)
+Prikazuje vrste kamnin in geoloških formacij. Karta je nastala na osnovi Osnovne geološke karte 1 : 100.000 in terenskih dopolnitev.
+{% include stanje.html content="10.10.2010" %}
 
 ### Opozorilna karta plazov (NOVO)
 Opozorilna karta v merilu 1:25.000 prikazuje prikaz verjetnosti pojavljanja zemeljskih plazov, skalnih podorov in drobirskih tokov.
