@@ -20,23 +20,23 @@ ali nepridobitno dejavnost.
 ## ARSO
 Agencija RS za okolje
 
-### Karta potresne nevarnosti (NOVO)
+### Karta potresne nevarnosti
 Osnovni parameter potresne nevarnosti je projektni pospešek tal za povratno dobo 475 in trdna tla.
 Priporočena doba 475 let ustreza 90 odstotkov verjetnosti, da vrednosti na karti ne bodo presežene v 50 letih, kar je predvidena življenjska doba navadnih objektov
 {% include stanje.html content="Veljavno stanje karte 2021" %}
 
-### Katalog potresov (NOVO)
+### Katalog potresov
 Lokacije potresov v Sloveniji in bližnji okolici. Od leta 1991 so na voljo bolj podrobni in natančni podatki, pred tem pa so vključeni vsi večji znani potresi pri nas.
 {% include stanje.html content="15.5.2025" %}
 
 ## DRSV
 Direkcija RS za vode
 
-### Hidrografija (NOVO)
+### Hidrografija
 Vsebuje površinske vode zajete kot linije (vodotoki, kanali,...) in kot ploskve (jezera, zbiralniki,...).
 {% include stanje.html content="15.9.2025" %}
 
-### Opozorilna karta poplav (NOVO)
+### Opozorilna karta poplav
 Opozorilna karta poplav je rezultat ocene poplavne nevarnosti in služi kot podlaga za izdelavo podrobnih poplavnih območij in njihovega razvrščanja.
 Vsebuje:
 - območja zelo redkih poplav, ki vključujejo poplave s povratno dobo 50 ali več let,
@@ -55,15 +55,15 @@ rabi vode in izdanih vodnih soglasjih.
 ## GeoZS
 Geološki zavod Slovenije
 
-### Aktivni geološki prelomi (NOVO)
+### Aktivni geološki prelomi
 Vključuje vse znane aktivne, verjetno aktivne in potencialno aktivne prelome s trasami dolžine >5 km. Prelomi so klasificirani kot aktivni, če obstajajo neposredni dokazi za aktivnost v kvartarju (2.6 Ma), verjetno aktivni, če obstajajo posredni dokazi za aktivnost v kvartarju (prisotnost kvartarnih sedimentacijskih bazenov v strukturni povezavi s prelomom, premiki zaznani v drenažnem sistemu, spremembe v obnašanju vodotokov, kot je npr. prehod iz vrezovanja v odlaganje), in potencialno aktivni, če so strukturno povezani z znanim aktivnim prelomom ali pa je njihova aktivnost možna glede na trenutno napetostno polje in geometrijo teh prelomov.
 {% include stanje.html content="15.12.2020" %}
 
-### Geološkja karta Slovenije 1:250.000 (NOVO)
+### Geološkja karta Slovenije 1:250.000
 Prikazuje vrste kamnin in geoloških formacij. Karta je nastala na osnovi Osnovne geološke karte 1 : 100.000 in terenskih dopolnitev.
 {% include stanje.html content="10.10.2010" %}
 
-### Opozorilna karta plazov (NOVO)
+### Opozorilna karta plazov
 Opozorilna karta v merilu 1:25.000 prikazuje prikaz verjetnosti pojavljanja zemeljskih plazov, skalnih podorov in drobirskih tokov.
 {% include stanje.html content="2024" %}
 
@@ -89,7 +89,7 @@ Gospodarska javna infrastruktura (GJI) so objekti in omrežja neposredno namenje
 ali lokalnega pomena iz področij prometa, energetike, komunalnega gospodarstva, elektronskih komunikacij, upravljanja z 
 vodami in gospodarjenja z drugimi vrstami naravnega bogastva ali varstva okolja.
 Geodetska uprava vodi zbirni kataster GJI, ki predstavlja centralno evidenco za celotno državo.
-{% include stanje.html content="8.11.2025" %}
+{% include stanje.html content="31.1.2026" %}
 
 - Prikaz šifrantov strukture GJI za opisne podatke elementov na lokaciji
 - Povezava na ePRS preko polj MAT_ST in MAT_GJS za več podatkov o upravljalcu ali izvajalcu javne službe
