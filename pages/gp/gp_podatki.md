@@ -121,6 +121,7 @@ Register naslovov je evidenca podatkov o naslovih.
 {% include stanje.html content="4.1.2026" %}
 
 - Iskanje po naslovu, naselju ali občini
+- Izpis najbližjega naslova in razdaljo od izbrane lokacije
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
 ## MNVP
@@ -133,12 +134,11 @@ Aglomeracije so območja poselitve določena v operativnem programu oskrbe s pit
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
 ### LiDAR
-Podatki LiDAR se nanašajo na projekt zračnega laserskega skeniranja celotne Slovenije. Rezultati projekta so med drugim najbolj natančni podatki o reliefu za
+Podatki LiDAR se nanašajo na aktualen projekt zračnega laserskega skeniranja celotne Slovenije. Rezultati projekta so med drugim najbolj natančni podatki o reliefu za
 območje Slovenije.
-{% include stanje.html content="Leta 2015 zaključen projekt za celotno državo" %}
+{% include stanje.html content="Obdobje skeniranja 2023-2025" %}
 
-- Senčen prikaz Digitalnega modela reliefa [Vključitev podatkov LiDAR 1. del](https://site.geo-portal.si/2020-03-02-vkljucitev-lidar-1.html)
-- Izpis nadmorske višine na lokaciji [Vključitev podatkov LiDAR 2. del](https://site.geo-portal.si/2021-01-04-vkljucitev-lidar-2.html)
+- Izpis nadmorske višine na lokaciji in senčen prikaz reliefa [Posodobitev višinskih podatkov (LiDAR 2023-2025](https://site.geo-portal.si/2026-08-10-posodobitev-lidar-23-25.html)
 - [Možnosti podlag in dodatnih slojev](sklopi.html#možnosti-podlag-in-dodatnih-slojev)
 
 ## Vključitev in posodabljanje
