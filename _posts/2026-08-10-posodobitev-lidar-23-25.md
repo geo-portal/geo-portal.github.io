@@ -11,7 +11,7 @@ Kot do sedaj pri stari verziji podatkov LiDAR je v spletnem vmesniku pri poizved
 {% include image.html file="posts/2026-08-10-01.png" alt="lidar" caption="Izpis nadmorske višine na lokaciji" %}
 
 {% include callout.html content="Vir podatkov za nadmorsko višino je Digitalni model reliefa (DMR) z ločljivostjo **50 cm** (DMR izdelan iz LiDAR-ja 2011-2014 je imel ločljivost 1 m).
-Ocenjena višinska natančnost je 0,1 m. Uporabljen je višinski sistem SVS2010 (datum Koper). Obdobje skeniranja **2023 - 2025**.
+Obdobje skeniranja **2023 - 2025**.
 " type="primary" %} 
 
 ### Sloj senčenega prikaza terena
