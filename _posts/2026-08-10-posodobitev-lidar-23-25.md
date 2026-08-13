@@ -19,11 +19,11 @@ Posodobljen in z boljšo ločljivostjo je tudi sloj senčenega prikaza terena
 
 {% include image.html file="posts/2026-08-10-02.png" alt="lidar2" caption="Sloj Teren (LiDAR 23-25), rahlo prosojno je prikazan tudi Ortofoto" %}
 
-### Namenska aplikacija Geo3D+
+### Namenska aplikacija GeoPlan3D
 
 Novost pa je namenske spletna aplikacija za enostaven prevzem (izrez) poljubnega območja podatkov LiDAR (DMR in Oblak točk) ter generiranje plastnic in druge koristne možnosti. 
 
-{% include image.html file="posts/2026-08-10-03.png" alt="lidar3" caption="Aplikacija Geo3D+" %}
+{% include image.html file="posts/2026-08-10-03a.png" alt="lidar3" caption="Aplikacija GeoPlan3D" %}
 
 Podrobnosti o aplikaciji bodo na voljo v kratkem.
 
