@@ -2,6 +2,7 @@
 title:  "Posodobitev višinskih podatkov (LiDAR 2023-2025)"
 permalink: 2026-08-10-posodobitev-lidar-23-25.html
 tags: [novice]
+last_updated: 2025-08-26
 ---
 
 V letu 2025 je bil zaključen nov projekt zračnega laserskega skeniranja (LiDAR) za območje Slovenije. Rezultat so najbolj natančni podatki reliefa, objektov in vegetacije do sedaj.
@@ -19,11 +20,12 @@ Posodobljen in z boljšo ločljivostjo je tudi sloj senčenega prikaza terena
 
 {% include image.html file="posts/2026-08-10-02.png" alt="lidar2" caption="Sloj Teren (LiDAR 23-25), rahlo prosojno je prikazan tudi Ortofoto" %}
 
-### Namenska aplikacija GeoPlan3D
+### Aplikacija GeoPlan3D
 
-Novost pa je namenske spletna aplikacija za enostaven prevzem (izrez) poljubnega območja podatkov LiDAR (DMR in Oblak točk) ter generiranje plastnic in druge koristne možnosti. 
+Novost pa je namenske spletna aplikacija za hitro pripravo (izrez) geodetskih podlag iz podatkov LiDAR in drugih državnih prostorskih evidenc za željeno območje.
+Vsebuje tudi generiranje plastnic in druge koristne možnosti.
 
-{% include image.html file="posts/2026-08-10-03a.png" alt="lidar3" caption="Aplikacija GeoPlan3D" %}
+{% include image.html file="plan3d/geoplan3d.png" alt="geoplan3d" caption="Aplikacija GeoPlan3D" %}
 
-Podrobnosti o aplikaciji bodo na voljo v kratkem.
+[Podrobnosti o aplikaciji](/geoplan3d.html).
 

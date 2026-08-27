@@ -60,6 +60,13 @@ entries:
         url: /sv_delo_s_sloji.html
         output: web
 
+  - title: GeoPlan3D
+    output: web
+    folderitems:
+      - title: Predstavitev
+        url: /geoplan3d.html
+        output: web
+
   - title: Novice
     output: web
     folderitems:

@@ -143,3 +143,11 @@ Za napredne uporabnike in po dogovoru z naročnikom so na voljo različni spletn
 1. WMS/WMTS servis za prikaz Digitalnih ortofoto načrtov DOF025 za celotno Slovenijo.
 2. WMS/WMTS servis za rastrski prikaz vsebin, ki se nahajajo v GEO-PORTAL-u.
 3. WFS servis za dostop do vsebin GEO-PORTAL-a v vektorski obliki.
+
+## 7. Namenske aplikacije
+
+### Iskalnik grobov
+Javna storitev iskanja lokacije grobnih mest za vključena pokopališča. [Primer za Ilirsko Bistrico](https://site.geo-portal.si/2025-06-12-iskalnik-grobov-ilirska.html).
+
+### GeoPlan3D
+Aplikacija za hitro pripravo geodetskih podlag iz podatkov LiDAR in drugih državnih prostorskih evidenc za željeno območje. [Podrobnosti](https://site.geo-portal.si/geoplan3d.html)
