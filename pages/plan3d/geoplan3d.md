@@ -92,7 +92,7 @@ Polni dostop za **1 mesec** za en uporabniški račun znaša **30,00** EUR + DDV
 
 Polni dostop za **1 leto** za en uporabniški račun znaša **300,00** EUR + DDV (2 meseca brezplačno).
 
-Plačila se izvajajo preko aplikacije, za popust v primeru več uporabniških računov za isto organizacijo pa nas kontaktirajte.
+Plačila se izvajajo preko aplikacije, za popust v primeru več uporabniških računov za isto organizacijo pa nas <a href="https://level2.si/contact/" target="_blank">**kontaktirajte**</a>.
 
 ## Ostale možnosti
 
