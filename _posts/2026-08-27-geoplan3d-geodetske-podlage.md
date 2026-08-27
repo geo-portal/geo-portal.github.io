@@ -1,5 +1,5 @@
 ---
-title:  "Z aplikacija GeoPlan3D hitro do geodetskih podlag"
+title:  "Z aplikacijo GeoPlan3D hitro do geodetskih podlag"
 permalink: 2026-08-27-geoplan3d-geodetske-podlage.html
 tags: [novice]
 ---
