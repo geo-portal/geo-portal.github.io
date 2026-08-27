@@ -77,7 +77,7 @@ Osnovni dostop je **brezplačen** in omogoča:
 - shranjevanje 2D/3D linije/poligona
 - nalaganje linije/poligona
 - izdelavo vzdolžnega profila terena linije
-- lokacijsko poizvedbo
+- lokacijsko poizvedbo (nadmorska višina, naslov ali naselje)
 - 3 prenose dnevno
 
 ### Polni dostop
