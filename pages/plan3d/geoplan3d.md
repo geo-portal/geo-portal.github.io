@@ -100,7 +100,7 @@ Plačila se izvajajo preko aplikacije, za popust v primeru več uporabniških ra
 Linijo ali poligon na karti lahko shranimo v GeoJSON, pri tem pa lahko lomne točke napnemo na 3D koordinate iz DMR (opcijsko lahko določimo tudi fiksen odmik Z koordinat od terena).
 
 ### Nalaganje
-Linijo ali poligon lahko tudi naložimo iz računalnika na karto (GeJSON, GPX)
+Linijo ali poligon lahko tudi naložimo iz računalnika na karto (GeoJSON, GPX)
 
 ### Profil terena in 3D statistika
 Izdelamo lahko interaktivni vzdolžni profil terena linije z 3D podatki: razdalja 3D, višinski razpon, spust, dvig, povprečni/minimalni/maksimalni nakloni, ...
