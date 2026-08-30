@@ -34,7 +34,7 @@ Direkcija RS za vode
 
 ### Hidrografija
 Vsebuje površinske vode zajete kot linije (vodotoki, kanali,...) in kot ploskve (jezera, zbiralniki,...).
-{% include stanje.html content="15.9.2025" %}
+{% include stanje.html content="8.6.2026" %}
 
 ### Opozorilna karta poplav
 Opozorilna karta poplav je rezultat ocene poplavne nevarnosti in služi kot podlaga za izdelavo podrobnih poplavnih območij in njihovega razvrščanja.

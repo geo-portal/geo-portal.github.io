@@ -27,16 +27,16 @@ Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo n
   - Stavbe,
   - Hišne številke,
   - Katastrske občine,
-  - GJI linije (vodovod, elektrika, plinovod, kanalizacija, elektronske komunikacije, javna razsvetljava),
+  - GJI linije: vodovod, elektrika, plinovod, kanalizacija, elektronske komunikacije, javna razsvetljava,
   - Namenska raba iz OPN,
-  - Vodotoki.
+  - Hidrografija: vodotoki in razbremenilni kanali.
 
   Vsebine so razdeljene po slojih glede na različno simbologijo pri izdelavi geodetskega načrta, skladno s topografskim ključem. 
   Poligonski sloji so v DXF zapisani linijsko z tekstom znotraj poligona.
  
   Sloje lahko obrežemo na območje ali pa prenesemo elemente slojev, ki se nahajajo znotraj območja ali se ga dotikajo, brez obrezovanja.
 
-  {% include image.html file="plan3d/geoplan3d_export.png" alt="geoplan3d" caption="Prenos vektorskih vsebin iz GeoPlan3D" %}
+  {% include image.html file="plan3d/geoplan3d_export_1.png" alt="geoplan3d" caption="Prenos vektorskih vsebin iz GeoPlan3D" %}
 
 ## Območje zanimanja
 
