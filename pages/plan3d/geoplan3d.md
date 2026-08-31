@@ -52,13 +52,13 @@ Območje zanimanja lahko določimo na več načinov:
 {% include image.html file="plan3d/geoplan3d_login.png" alt="geoplan3d_login" %}
 
 ### Novi uporabniki
-Izberite možnost "Registrirajte se za dostop do modula GeoPlan3D" in izpolnite obrazec za registracijo. Po potrditvi registracije boste prejeli e-poštno sporočilo z navodili za aktivacijo računa. Po aktivaciji računa se prijavite in lahko pričnete z uporabo aplikacije.
+Na [prijavni strani](https://geo-portal.si/modules/plan3d/map/geo) aplikacije izberite možnost "Registrirajte se za dostop do modula GeoPlan3D" in izpolnite obrazec za registracijo. Po potrditvi registracije boste prejeli e-poštno sporočilo z navodili za aktivacijo računa. Po aktivaciji računa se prijavite in lahko pričnete z uporabo aplikacije.
 
 {% include callout.html content="Aktiviran bo **polni dostop** za preizkusno obdobje **14 dni**. Po preteku tega roka, bo dostop samodejno spremenjen v osnovni.
 Kadarkoli pa boste imeli možnost nadgradnje na polni dostop." type="danger" %}
 
 ### Obstoječi uporabniki
-Vnesite svoje prijavne podatke in vklopite možnost "Sem že uporabnik in želim dostop do modula GeoPlan3D" ter se prijavite v sistem.
+Na [prijavni strani](https://geo-portal.si/modules/plan3d/map/geo) aplikacije vnesite svoje prijavne podatke in vklopite možnost "Sem že uporabnik in želim dostop do modula GeoPlan3D" ter se prijavite v sistem.
 
 {% include image.html file="plan3d/geoplan3d_enable.png" alt="geoplan3d_enable" %}
 
