@@ -6,6 +6,8 @@ folder: plan3d
 summary: Aplikacija GeoPlan3D omogoča hitro pripravo geodetskih podlag iz podatkov LiDAR in drugih državnih prostorskih evidenc za željeno območje.
 ---
 
+Oglejte si krajši [povzetek aplikacije](https://level2.si/resitve/geoplan3d/) na strani Level2.
+
 ## Dostop
 [**Aplikacija GeoPlan3D**](https://geo-portal.si/modules/plan3d/map/geo)
 
