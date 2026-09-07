@@ -21,7 +21,7 @@ obstoječi pa si lahko vklopijo dostop. Več v poglavju [Registracija in vklop](
 Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo naslednje podatke:
 - **Digitalni model reliefa (DMR)** v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
 - **Oblak točk (Point Cloud, GKOT)**, v LAZ formatu. Oblak točk vsebuje bistveno več točk kot DMR. Točke so klasificirane, tako da lahko pred izvozom izberemo samo določene kategorije (tla, vode, stavbe, vegetacijo,...).
-- **Plastnice 3D** v DXF formatu. Privzeto so osnovne plastnice na 1m in glavne na 5m, ki so v DXF v svojem sloju in še ločeno z napisi višin. Razdaljo med plastnicami lahko tudi spremenimo.
+- **Plastnice 3D** v DXF formatu. Privzeto se generirajo osnovne plastnice na 1m in glavne na 5m, ki so v DXF v svojem sloju in še ločeno z napisi višin. Razdaljo med plastnicami lahko tudi spremenimo.
   {% include image.html file="plan3d/plastnice.png" max-width=500 alt="plastnice" caption="Plastnice generirane z GeoPlan3D" %}
 - **Vektorski podatki 2D** v DXF ali GeoJSON formatu. V enem koraku lahko prenesemo naslednje vsebine:
   - Parcele,
