@@ -1,9 +1,9 @@
 ---
 title: Aplikacija GeoPlan3D
-keywords: lidar, clss, dmr, dem, pointcloud, oblak točk, izvoz sloja, plastnice, kataster nepremičnin, parcele, stavbe, hišne številke, gospodarska javna infrastruktura, vodovod, elektrika, plinovod, kanalizacija, elektronske komunikacije, javna razsvetljava, urejene meje, namenska raba, geodetski načrt, Autocad DXF, GeoJSON
+keywords: lidar, clss, dmr, dem, pointcloud, ortofoto, dof, oblak točk, izvoz sloja, plastnice, kataster nepremičnin, parcele, stavbe, hišne številke, gospodarska javna infrastruktura, vodovod, elektrika, plinovod, kanalizacija, elektronske komunikacije, javna razsvetljava, urejene meje, namenska raba, geodetski načrt, Autocad DXF, GeoJSON
 permalink: geoplan3d.html
 folder: plan3d
-summary: Aplikacija GeoPlan3D omogoča hitro pripravo geodetskih podlag iz podatkov LiDAR in drugih državnih prostorskih evidenc za željeno območje.
+summary: GeoPlan3D omogoča hitro pripravo geodetskih podlag iz podatkov LiDAR, ortofota in drugih prostorskih podatkov za Slovenijo. Rezultati so takoj pripravljeni za uporabo v CAD ali GIS okolju.
 ---
 
 Oglejte si krajši [povzetek aplikacije](https://level2.si/resitve/geoplan3d/) na strani Level2.
@@ -19,11 +19,23 @@ obstoječi pa si lahko vklopijo dostop. Več v poglavju [Registracija in vklop](
 ## Prenos podatkov 
 
 Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo naslednje podatke:
-- **Digitalni model reliefa (DMR)** v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
-- **Oblak točk (Point Cloud, GKOT)**, v LAZ formatu. Oblak točk vsebuje bistveno več točk kot DMR. Točke so klasificirane, tako da lahko pred izvozom izberemo samo določene kategorije (tla, vode, stavbe, vegetacijo,...).
-- **Plastnice 3D** v DXF formatu. Privzeto se generirajo osnovne plastnice na 1m in glavne na 5m, ki so v DXF v svojem sloju in še ločeno z napisi višin. Razdaljo med plastnicami lahko tudi spremenimo.
-  {% include image.html file="plan3d/plastnice.png" max-width=500 alt="plastnice" caption="Plastnice generirane z GeoPlan3D" %}
-- **Vektorski podatki 2D** v DXF ali GeoJSON formatu. V enem koraku lahko prenesemo naslednje vsebine:
+
+### Digitalni model reliefa (DMR)
+
+Višine terena v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
+
+### Oblak točk (Point Cloud, GKOT)
+
+Oblak točk vsebuje bistveno več točk kot DMR. Točke so klasificirane, tako da lahko pred izvozom izberemo samo določene kategorije (tla, vode, stavbe, vegetacijo,...). Na voljo v LAZ formatu.
+
+### Plastnice 3D
+
+Privzeto se generirajo osnovne plastnice na 1m in glavne na 5m, ki so v DXF v svojem sloju in še ločeno z napisi višin. Razdaljo med plastnicami lahko tudi spremenimo.
+{% include image.html file="plan3d/plastnice.png" max-width=500 alt="plastnice" caption="Plastnice generirane z GeoPlan3D" %}
+
+### Vektorski podatki 2D
+
+V enem koraku lahko prenesemo naslednje vsebine:
   - Parcele,
   - Urejene meje,
   - Stavbe,
@@ -33,12 +45,16 @@ Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo n
   - Namenska raba iz OPN,
   - Hidrografija: vodotoki in razbremenilni kanali.
 
-  Vsebine so razdeljene po slojih glede na različno simbologijo pri izdelavi geodetskega načrta, skladno s topografskim ključem. 
-  Poligonski sloji so v DXF zapisani linijsko z tekstom znotraj poligona.
+Vsebine so razdeljene po slojih glede na različno simbologijo pri izdelavi geodetskega načrta, skladno s topografskim ključem. 
+Na voljo v DXF ali GeoJSON formatu. Poligonski sloji so v DXF zapisani linijsko s tekstom znotraj poligona.
  
-  Sloje lahko obrežemo na območje ali pa prenesemo elemente slojev, ki se nahajajo znotraj območja ali se ga dotikajo, brez obrezovanja.
+Sloje lahko obrežemo na območje ali pa prenesemo elemente slojev, ki se nahajajo znotraj območja ali se ga dotikajo, brez obrezovanja.
 
-  {% include image.html file="plan3d/geoplan3d_export_1.png" alt="geoplan3d" caption="Prenos vektorskih vsebin iz GeoPlan3D" %}
+{% include image.html file="plan3d/geoplan3d_export_1.png" alt="geoplan3d" caption="Prenos vektorskih vsebin iz GeoPlan3D" %}
+
+### Ortofoto (DOF)
+
+Za območje prenesemo ortofoto v najvišji ločljivosti (12,5cm) v GeoTIFF formatu. Po želji lahko tudi podatke obrežemo točno na območje zanimanja.
 
 ## Območje zanimanja
 
