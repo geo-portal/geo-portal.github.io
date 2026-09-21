@@ -27,7 +27,7 @@ Priporočena doba 475 let ustreza 90 odstotkov verjetnosti, da vrednosti na kart
 
 ### Katalog potresov
 Lokacije potresov v Sloveniji in bližnji okolici. Od leta 1991 so na voljo bolj podrobni in natančni podatki, pred tem pa so vključeni vsi večji znani potresi pri nas.
-{% include stanje.html content="15.5.2025" %}
+{% include stanje.html content="31.12.2025" %}
 
 ## DRSV
 Direkcija RS za vode
@@ -59,16 +59,16 @@ Geološki zavod Slovenije
 Vključuje vse znane aktivne, verjetno aktivne in potencialno aktivne prelome s trasami dolžine >5 km. Prelomi so klasificirani kot aktivni, če obstajajo neposredni dokazi za aktivnost v kvartarju (2.6 Ma), verjetno aktivni, če obstajajo posredni dokazi za aktivnost v kvartarju (prisotnost kvartarnih sedimentacijskih bazenov v strukturni povezavi s prelomom, premiki zaznani v drenažnem sistemu, spremembe v obnašanju vodotokov, kot je npr. prehod iz vrezovanja v odlaganje), in potencialno aktivni, če so strukturno povezani z znanim aktivnim prelomom ali pa je njihova aktivnost možna glede na trenutno napetostno polje in geometrijo teh prelomov.
 {% include stanje.html content="15.12.2020" %}
 
-### Geološkja karta Slovenije 1:250.000
+### Geološka karta Slovenije 1:250.000
 Prikazuje vrste kamnin in geoloških formacij. Karta je nastala na osnovi Osnovne geološke karte 1 : 100.000 in terenskih dopolnitev.
 {% include stanje.html content="10.10.2010" %}
 
 ### Opozorilna karta plazov
-Opozorilna karta v merilu 1:25.000 prikazuje prikaz verjetnosti pojavljanja zemeljskih plazov, skalnih podorov in drobirskih tokov.
-{% include stanje.html content="2024" %}
+Opozorilna karta v merilu 1:25.000 prikazuje prikaz verjetnosti pojavljanja zemeljskih plazov, skalnih podorov in drobirskih tokov. Podatki so pripravljeni samo za določene občine.
+{% include stanje.html content="16.2.2026" %}
 
-Terensko preverjeni zemeljski in hribinski plazovi.
-{% include stanje.html content="11.12.2024" %}
+Terensko preverjeni zemeljski in hribinski plazovi. Podatki so pripravljeni samo za določene občine.
+{% include stanje.html content="13.4.2026" %}
 
 ## GURS 
 Geodetska uprava RS
