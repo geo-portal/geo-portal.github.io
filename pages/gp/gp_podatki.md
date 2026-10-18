@@ -34,7 +34,7 @@ Direkcija RS za vode
 
 ### Hidrografija
 Vsebuje površinske vode zajete kot linije (vodotoki, kanali,...) in kot ploskve (jezera, zbiralniki,...).
-{% include stanje.html content="8.6.2026" %}
+{% include stanje.html content="8.10.2026" %}
 
 ### Opozorilna karta poplav
 Opozorilna karta poplav je rezultat ocene poplavne nevarnosti in služi kot podlaga za izdelavo podrobnih poplavnih območij in njihovega razvrščanja.
@@ -48,7 +48,7 @@ Vsebuje:
 ### Vodna knjiga
 Vodna knjiga je javna evidenca, ki vsebuje podatke o: podeljenih vodnih pravicah (vodna dovoljenja in koncesije), posebni 
 rabi vode in izdanih vodnih soglasjih.
-{% include stanje.html content="6.11.2025" %}
+{% include stanje.html content="7.9.2026" %}
 
 - [Možnosti vektorskih slojev](sklopi.html#možnosti-vektorskih-slojev)
 
