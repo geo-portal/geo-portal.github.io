@@ -1,6 +1,6 @@
 ---
 title: Aplikacija GeoPlan3D
-keywords: lidar, clss, dmr, dem, pointcloud, ortofoto, dof, oblak točk, izvoz sloja, plastnice, kataster nepremičnin, parcele, stavbe, hišne številke, gospodarska javna infrastruktura, vodovod, elektrika, plinovod, kanalizacija, elektronske komunikacije, javna razsvetljava, urejene meje, namenska raba, geodetski načrt, Autocad DXF, GeoJSON
+keywords: geodetske podlage, geodetski podatki, lidar, clss, dmr, dem, pointcloud, ortofoto, dof, oblak točk, izvoz sloja, plastnice, generiranje plastnic, kataster nepremičnin, parcele, stavbe, hišne številke, gospodarska javna infrastruktura, vodovod, elektrika, plinovod, kanalizacija, elektronske komunikacije, javna razsvetljava, urejene meje, namenska raba, geodetski načrt, Autocad DXF, GeoJSON
 permalink: geoplan3d.html
 folder: plan3d
 summary: GeoPlan3D omogoča hitro pripravo geodetskih podlag iz podatkov LiDAR, ortofota in drugih prostorskih podatkov za Slovenijo. Rezultati so takoj pripravljeni za uporabo v CAD ali GIS okolju.
