@@ -1,9 +1,9 @@
 ---
-title: Aplikacija GeoPlan3D
+title: GeoPlan3D
 keywords: geodetske podlage, geodetski podatki, prenos geodetskih podatkov, geodetski podatki Slovenije, geodetski načrt, LiDAR Slovenija, DMR, digitalni model reliefa, oblak točk, GKOT, plastnice, izohipse, ortofoto, DOF, kataster nepremičnin, parcele, stavbe, gospodarska javna infrastruktura, GJI, namenska raba, DXF, GeoJSON, GeoTIFF, LAZ, CAD, GIS
 permalink: geoplan3d.html
 folder: plan3d
-summary: GeoPlan3D omogoča hitro pripravo geodetskih podlag iz podatkov LiDAR, ortofota in drugih prostorskih podatkov za Slovenijo. Rezultati so takoj pripravljeni za uporabo v CAD ali GIS okolju.
+summary: GeoPlan3D je spletna aplikacija za pripravo geodetskih podlag na osnovi državnih prostorskih podatkov Slovenije. Za izbrano območje omogoča izdelavo digitalnega modela reliefa, generiranje plastnic ter prenos oblaka točk LiDAR, ortofota in drugih prostorskih vsebin. Rezultati so takoj pripravljeni za uporabo v CAD ali GIS okolju.
 ---
 
 Oglejte si krajši [povzetek aplikacije](https://level2.si/resitve/geoplan3d/) na strani Level2.
