@@ -22,7 +22,7 @@ Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo n
 
 ### Digitalni model reliefa (DMR)
 
-Višine terena v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
+Višine terena v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAS/LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
 
 ### Oblak točk (Point Cloud, GKOT)
 
