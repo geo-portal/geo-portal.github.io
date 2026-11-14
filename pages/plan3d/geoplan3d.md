@@ -23,10 +23,12 @@ Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo n
 ### Digitalni model reliefa (DMR)
 
 Višine terena v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAS/LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
+{% include image.html file="plan3d/dmr.png" max-width=500 alt="dmr" caption="Barvno senčen prikaz reliefa" %}
 
 ### Oblak točk (Point Cloud, GKOT)
 
 Oblak točk vsebuje bistveno več točk kot DMR. Točke so klasificirane, tako da lahko pred izvozom izberemo samo določene kategorije (tla, vode, stavbe, vegetacijo,...). Na voljo v LAZ formatu.
+{% include image.html file="plan3d/pointcloud.png" max-width=500 alt="pointcloud" caption="Prikaz oblaka točk glede na RGB vrednosti" %}
 
 ### Plastnice 3D
 
@@ -54,7 +56,7 @@ Sloje lahko obrežemo na območje ali pa prenesemo elemente slojev, ki se nahaja
 
 ### Ortofoto (DOF)
 
-Za območje prenesemo ortofoto v najvišji ločljivosti (12,5cm) v GeoTIFF formatu. Po želji lahko tudi podatke obrežemo točno na območje zanimanja.
+Za območje prenesemo ortofoto v najvišji ločljivosti (12,5cm) v GeoTIFF ali TIFF+TFW formatu. Po želji lahko tudi podatke obrežemo točno na območje zanimanja.
 
 ## Območje zanimanja
 
@@ -90,6 +92,7 @@ Kadarkoli pa boste imeli možnost nadgradnje na polni dostop." type="danger" %}
 ### Osnovni dostop
 Osnovni dostop je **brezplačen** in omogoča:
 - prenos DMR za območje
+- prenos ortofota (DOF) za območje
 - prenos vektorskih podatkov za območje za 1 sloj naenkrat
 - risanje linije/poligona
 - shranjevanje 2D/3D linije/poligona
