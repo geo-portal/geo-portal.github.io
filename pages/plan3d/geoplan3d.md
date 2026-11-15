@@ -18,22 +18,22 @@ obstoječi pa si lahko vklopijo dostop. Več v poglavju [Registracija in vklop](
 
 ## Prenos podatkov 
 
-Za **območje zanimanja** lahko enostavno na klik prenesemo oziroma generiramo naslednje podatke:
+Za [območje zanimanja](/geoplan3d.html#območje-zanimanja) lahko enostavno na klik prenesemo oziroma generiramo naslednje podatke:
 
 ### Digitalni model reliefa (DMR)
 
 Višine terena v mreži točk z razdaljo 50cm. Izbiramo lahko med naslednjimi formati: GeoTIFF, XYZ in LAS/LAZ. Ločljivost lahko po želji tudi zmanjšamo v primeru prekompleksnih podatkov.
-{% include image.html file="plan3d/dmr.png" max-width=500 alt="dmr" caption="Barvno senčen prikaz reliefa" %}
+{% include image.html file="plan3d/dmr.png" alt="dmr" caption="Barvno senčen prikaz reliefa" %}
 
 ### Oblak točk (Point Cloud, GKOT)
 
 Oblak točk vsebuje bistveno več točk kot DMR. Točke so klasificirane, tako da lahko pred izvozom izberemo samo določene kategorije (tla, vode, stavbe, vegetacijo,...). Na voljo v LAZ formatu.
-{% include image.html file="plan3d/pointcloud.png" max-width=500 alt="pointcloud" caption="Prikaz oblaka točk glede na RGB vrednosti" %}
+{% include image.html file="plan3d/pointcloud.png" alt="pointcloud" caption="Prikaz oblaka točk glede na RGB vrednosti" %}
 
 ### Plastnice 3D
 
 Privzeto se generirajo osnovne plastnice na 1m in glavne na 5m, ki so v DXF v svojem sloju in še ločeno z napisi višin. Razdaljo med plastnicami lahko tudi spremenimo.
-{% include image.html file="plan3d/plastnice.png" max-width=500 alt="plastnice" caption="Plastnice generirane z GeoPlan3D" %}
+{% include image.html file="plan3d/plastnice.png" alt="plastnice" caption="Plastnice generirane z GeoPlan3D" %}
 
 ### Vektorski podatki 2D
 
@@ -53,6 +53,7 @@ Na voljo v DXF ali GeoJSON formatu. Poligonski sloji so v DXF zapisani linijsko 
 Sloje lahko obrežemo na območje ali pa prenesemo elemente slojev, ki se nahajajo znotraj območja ali se ga dotikajo, brez obrezovanja.
 
 {% include image.html file="plan3d/geoplan3d_export_1.png" alt="geoplan3d" caption="Prenos vektorskih vsebin iz GeoPlan3D" %}
+{% include image.html file="plan3d/gn600-1.png" alt="dxf_export" caption="Izvoz v DXF in prikaz v CAD okolju" %}
 
 ### Ortofoto (DOF)
 
@@ -125,12 +126,15 @@ Linijo ali poligon lahko tudi naložimo iz računalnika na karto (GeoJSON, GPX)
 
 ### Profil terena in 3D statistika
 Izdelamo lahko interaktivni vzdolžni profil terena linije z 3D podatki: razdalja 3D, višinski razpon, spust, dvig, povprečni/minimalni/maksimalni nakloni, ...
+{% include image.html file="plan3d/profil.png" alt="profil" caption="Interaktivni profil terena z razdaljo, višino, naklonom in prikazom na liniji profila na karti" %}
+{% include image.html file="plan3d/3dstat.png" alt="3dstat" caption="Statistika linije profila z različnimi višinskimi parametri" %}
 
 ### Iskanje
 Lokacijo lahko iščemo preko naslova ali z vnosom koordinate.
 
 ### Karta
-Na karti lahko prikažemo naslednje sloje: Ortofoto, Senčen prikaz terena, Napisi in ceste za orientacijo in Parcele.
+Na karti lahko prikažemo naslednje sloje: Ortofoto, Senčen prikaz terena, Napisi in ceste za orientacijo, Parcele, Namenske rabe in GJI sloje.
+{% include image.html file="plan3d/karta.png" alt="karta" caption="Karta in vklop slojev za prikaz komunalne opremljenosti parcel" %}
 
 ## Stanje podatkov
 1. Za vse višinske podatke je vir aktualno lasersko skeniranje Slovenije (LiDAR, 2023-2025).
